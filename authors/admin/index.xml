@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leda Inga</title>
+    <link>https://leda-inga.github.io/authors/admin/</link>
+      <atom:link href="https://leda-inga.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leda Inga</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leda-inga.github.io/authors/admin/avatar_hu3119bbe09882933fb3af45e1781603e7_149105_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Leda Inga</title>
+      <link>https://leda-inga.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>The effects of subsidized transit on the unemployed youth: A regression discontinuity design</title>
+      <link>https://leda-inga.github.io/publication/madrid/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://leda-inga.github.io/publication/madrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The employment effect of subsidized transit on unemployment assistance recipients</title>
+      <link>https://leda-inga.github.io/publication/barcelona/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://leda-inga.github.io/publication/barcelona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Celestial Enlightenment : Eclipses, curiosity and economic</title>
+      <link>https://leda-inga.github.io/talk/celestial-enlightenment-eclipses-curiosity-and-economic/</link>
+      <pubDate>Thu, 16 Jun 2022 10:45:00 +0100</pubDate>
+      <guid>https://leda-inga.github.io/talk/celestial-enlightenment-eclipses-curiosity-and-economic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://leda-inga.github.io/publication/belgium/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://leda-inga.github.io/publication/belgium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
