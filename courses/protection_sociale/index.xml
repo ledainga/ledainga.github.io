@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leda Inga</title>
-    <link>https://leda-inga.github.io/</link>
-      <atom:link href="https://leda-inga.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Leda Inga</description>
+    <title>Protection sociale | Leda Inga</title>
+    <link>https://leda-inga.github.io/courses/protection_sociale/</link>
+      <atom:link href="https://leda-inga.github.io/courses/protection_sociale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Protection sociale</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leda-inga.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Leda Inga</title>
-      <link>https://leda-inga.github.io/</link>
+      <title>Protection sociale</title>
+      <link>https://leda-inga.github.io/courses/protection_sociale/</link>
     </image>
     
     <item>
@@ -222,46 +222,6 @@ Ces personnes représentent une part non négligeable de la population en âge d
 En France, la main-d&amp;rsquo;œuvre potentielle représente environ 5 % de la population en âge de travailler &lt;a href=&#34;https://www.insee.fr/fr/statistiques/8239339#graphique-chomage-g2-fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSEE&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The effects of subsidized transit on the unemployed youth: A regression discontinuity design</title>
-      <link>https://leda-inga.github.io/publication/madrid/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://leda-inga.github.io/publication/madrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The employment effect of subsidized transit on unemployment assistance recipients</title>
-      <link>https://leda-inga.github.io/publication/barcelona/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://leda-inga.github.io/publication/barcelona/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Celestial Enlightenment : Eclipses, curiosity and economic</title>
-      <link>https://leda-inga.github.io/talk/celestial-enlightenment-eclipses-curiosity-and-economic/</link>
-      <pubDate>Thu, 16 Jun 2022 10:45:00 +0100</pubDate>
-      <guid>https://leda-inga.github.io/talk/celestial-enlightenment-eclipses-curiosity-and-economic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Switching from an inclining to a zero-level unemployment beneﬁt proﬁle: Good for work incentives?</title>
-      <link>https://leda-inga.github.io/publication/belgium/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://leda-inga.github.io/publication/belgium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://leda-inga.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://leda-inga.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>
