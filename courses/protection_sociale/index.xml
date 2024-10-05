@@ -219,12 +219,16 @@ C&amp;rsquo;est-à-dire,&lt;/p&gt;
 De plus, cet indicateur ignore également les personnes sans travail mais disposées à travailler.
 Parmi elles, nous avons deux groupes de personnes :&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;les &lt;strong&gt;travailleurs découragés&lt;/strong&gt; qui sont (facilement) disponibles pour travailler, bien qu&amp;rsquo;ils ne recherchent pas activement d&amp;rsquo;emploi parce qu&amp;rsquo;ils se sentent &lt;strong&gt;découragés&lt;/strong&gt; quant à leurs perspectives d&amp;rsquo;emploi ;&lt;/li&gt;
-&lt;li&gt;les &lt;strong&gt;demandeurs d&amp;rsquo;emploi non disponibles&lt;/strong&gt; qui ne sont &lt;strong&gt;pas&lt;/strong&gt; immédiatement disponibles pour travailler mais qui cherchent néanmoins un emploi (par exemple, les étudiants qui n&amp;rsquo;ont pas encore terminé leurs études mais qui cherchent déjà du travail).
-Ces deux groupes de personnes constituent la &lt;strong&gt;main-d&amp;rsquo;œuvre potentielle&lt;/strong&gt; telle que définie par l&amp;rsquo;OIT.
-Ces personnes représentent une part non négligeable de la population en âge de travailler.
-En France, la main-d&amp;rsquo;œuvre potentielle représente environ 5 % de la population en âge de travailler &lt;a href=&#34;https://www.insee.fr/fr/statistiques/8239339#graphique-chomage-g2-fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSEE&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;les &lt;strong&gt;travailleurs découragés&lt;/strong&gt; qui sont (facilement) disponibles pour travailler, bien qu&amp;rsquo;ils ne recherchent pas activement d&amp;rsquo;emploi parce qu&amp;rsquo;ils se sentent &lt;strong&gt;découragés&lt;/strong&gt; quant à leurs perspectives d&amp;rsquo;emploi ;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;les &lt;strong&gt;demandeurs d&amp;rsquo;emploi non disponibles&lt;/strong&gt; qui ne sont &lt;strong&gt;pas&lt;/strong&gt; immédiatement disponibles pour travailler mais qui cherchent néanmoins un emploi (par exemple, les étudiants qui n&amp;rsquo;ont pas encore terminé leurs études mais qui cherchent déjà du travail).&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Ces deux groupes de personnes constituent la &lt;strong&gt;main-d&amp;rsquo;œuvre potentielle&lt;/strong&gt; telle que définie par l&amp;rsquo;OIT.
+Ces personnes représentent une part non négligeable de la population en âge de travailler.
+En France, la main-d&amp;rsquo;œuvre potentielle représente environ 5 % de la population en âge de travailler &lt;a href=&#34;https://www.insee.fr/fr/statistiques/8239339#graphique-chomage-g2-fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSEE&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -233,7 +237,7 @@ En France, la main-d&amp;rsquo;œuvre potentielle représente environ 5 % de la 
       <link>https://leda-inga.github.io/courses/protection_sociale/offre-de-travail/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://leda-inga.github.io/courses/protection_sociale/offre-de-travail/</guid>
-      <description>&lt;h2 id=&#34;une-étude-plus-approfondie-de-loffre-de-travail--une-théorie-de-la-décision-de-travailler&#34;&gt;Une Étude Plus Approfondie de l&amp;rsquo;Offre de Travail : Une Théorie de la Décision de Travailler&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;une-étude-plus-approfondie-de-loffre-de-travail--une-théorie-de-la-décision-de-travailler&#34;&gt;Une étude plus approfondie de l&amp;rsquo;offre de travail : Une théorie de la décision de travailler&lt;/h2&gt;
 &lt;p&gt;Plus tôt ou plus tard, nous sommes tous confrontés à deux décisions importantes : travailler ou non et, si nous rejoignons le marché du travail, combien d&amp;rsquo;heures travailler.
 Dans ce chapitre, nous allons étudier le cadre de base que les économistes utilisent pour analyser ces décisions, le &lt;strong&gt;modèle néoclassique du choix travail-loisir&lt;/strong&gt;.
 Dans ce cadre, les personnes (travailleurs) choisissent comment dépenser leurs &lt;strong&gt;ressources limitées&lt;/strong&gt; (temps et richesse) entre les choses qu&amp;rsquo;elles aiment.
@@ -243,14 +247,14 @@ Les gens doivent donc travailler pour gagner de l&amp;rsquo;argent et acheter le
 Nous supposons que les travailleurs choisissent la combinaison de biens et de loisirs qui maximise leur utilité (ou leur bien-être).
 Puisque le temps est limité, ils sont confrontés à un arbitrage économique entre la consommation de biens et les loisirs : s&amp;rsquo;ils travaillent beaucoup, ils peuvent acheter de nombreux biens qui les rendent heureux, mais il leur restera peu de temps libre à consacrer à leurs loisirs.
 Au contraire, s&amp;rsquo;ils travaillent peu, ils disposent de beaucoup de temps libre mais ne peuvent se permettre que peu des biens qu&amp;rsquo;ils aiment.&lt;/p&gt;
-&lt;h3 id=&#34;les-préférences-du-travailleur&#34;&gt;Les Préférences du Travailleur&lt;/h3&gt;
+&lt;h3 id=&#34;les-préférences-du-travailleur&#34;&gt;Les préférences du travailleur&lt;/h3&gt;
 &lt;p&gt;Pensons à un travailleur individuel.
 Comme nous l&amp;rsquo;avons dit, nous supposons qu&amp;rsquo;une personne tire satisfaction de la consommation de biens &lt;em&gt;et&lt;/em&gt; de temps de loisir.
 Bien entendu, cette personne peut consommer différents biens.
 Mais, pour simplifier, nous additionnons la valeur monétaire de tous les biens qu&amp;rsquo;il ou elle consomme au cours d&amp;rsquo;une période donnée et nous la désignons par $C$ (qui, nous le dirons, est mesuré en euros).
 Par exemple, $C=1000$ euros peut inclure l&amp;rsquo;argent dépensé pour la nourriture, le loyer, les tickets de bus, les nouveaux vêtements, etc.
 $L$ désigne le nombre d&amp;rsquo;heures de loisir que la personne profite sur la même période de temps.&lt;/p&gt;
-&lt;h3 id=&#34;utilité-et-courbes-dindifférence&#34;&gt;Utilité et Courbes d&amp;rsquo;Indifférence&lt;/h3&gt;
+&lt;h3 id=&#34;utilité-et-courbes-dindifférence&#34;&gt;Utilité et courbes d&amp;rsquo;indifférence&lt;/h3&gt;
 &lt;p&gt;L&amp;rsquo;idée que le bien-être ou le bonheur du travailleur dépend à la fois de la consommation de biens et de loisir est capturée par la fonction d&amp;rsquo;utilité :&lt;/p&gt;
 &lt;p&gt;$U=f(C,L)$.&lt;/p&gt;
 &lt;p&gt;Vous pouvez penser à cette fonction d&amp;rsquo;utilité comme une &amp;ldquo;machine&amp;rdquo; transformant les ressources dépensées en biens et loisir (entrées) en un indice $U$ qui mesure le niveau de bien-être que le travailleur obtient en les consommant (sortie).
@@ -280,7 +284,7 @@ Nous supposons que plus le travailleur consomme de biens ou de loisir, plus il e
 &lt;/p&gt;
 &lt;p&gt;Et, disons que ce panier de consommation lui donne 120 utils (l&amp;rsquo;unité de mesure de son utilité).
 Maintenant, supposons que notre travailleur pourrait obtenir le &lt;em&gt;même&lt;/em&gt; niveau d&amp;rsquo;utilité en consommant 480 euros de biens et 60 heures de loisir (point $X$ dans la figure).
-Si nous joignions tous les points qui donnent à notre travailleur le même niveau d&amp;rsquo;utilité (120 euros), nous obtiendrions une &lt;strong&gt;courbe d&amp;rsquo;indifférence&lt;/strong&gt; comme celle étiquetée $U_{0}$ dans la figure.&lt;/p&gt;
+Si nous joignions tous les points qui donnent à notre travailleur le même niveau d&amp;rsquo;utilité (120 utils), nous obtiendrions une &lt;strong&gt;courbe d&amp;rsquo;indifférence&lt;/strong&gt; comme celle étiquetée $U_{0}$ dans la figure.&lt;/p&gt;
 &lt;p&gt;Supposons maintenant que le travailleur consomme plus de biens &lt;em&gt;et&lt;/em&gt; plus de loisir.
 Cette nouvelle combinaison de biens et de loisir le rendrait certainement plus heureux, après tout, (par hypothèse) il aime les deux.
 Une combinaison comme celle-ci est représentée par le point $Z$ dans la figure ci-dessus.
@@ -289,7 +293,7 @@ Comme vous pouvez le constater, nous pouvons donc parler d&amp;rsquo;une &amp;ld
 &lt;p&gt;Les courbes d&amp;rsquo;indifférence remplissent quatre propriétés importantes :&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Les courbes d&amp;rsquo;indifférence plus élevées représentent des niveaux d&amp;rsquo;utilité plus élevés&lt;/strong&gt;&lt;/em&gt; puisque, par hypothèse, les travailleurs sont plus heureux s&amp;rsquo;ils peuvent consommer davantage de &lt;em&gt;toutes&lt;/em&gt; les choses qu&amp;rsquo;ils aiment (biens et loisirs).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Les courbes d&amp;rsquo;indifférence plus hautes représentent des niveaux d&amp;rsquo;utilité plus élevés&lt;/strong&gt;&lt;/em&gt; puisque, par hypothèse, les travailleurs sont plus heureux s&amp;rsquo;ils peuvent consommer davantage de &lt;em&gt;toutes&lt;/em&gt; les choses qu&amp;rsquo;ils aiment (biens et loisirs).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Les courbes d&amp;rsquo;indifférence ne se croisent pas&lt;/strong&gt;&lt;/em&gt;.
@@ -345,9 +349,9 @@ Mais, bien sûr, l&amp;rsquo;intuition nous dit que plus nous avons de loisirs, 
 Et, par conséquent, moins nous serons disposés à renoncer à des biens en échange de loisirs.
 Cette volonté d&amp;rsquo;échanger des biens contre des loisirs est représentée par la &lt;em&gt;pente d&amp;rsquo;une courbe d&amp;rsquo;indifférence&lt;/em&gt;.
 Par conséquent, dire que les courbes d&amp;rsquo;indifférence sont convexes revient à faire l&amp;rsquo;hypothèse supplémentaire que la volonté des travailleurs d&amp;rsquo;échanger des biens contre des loisirs diminue à mesure que les loisirs deviennent relativement abondants.&lt;/p&gt;
+&lt;p&gt;Voyons maintenant pourquoi la pente d&amp;rsquo;une courbe d&amp;rsquo;indifférence indique le nombre d&amp;rsquo;euros de biens que le travailleur est prêt à abandonner pour une heure de loisir supplémentaire (ou encore, le nombre d&amp;rsquo;euros de biens supplémentaires dont il a besoin pour renoncer à une heure de loisir).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Voyons maintenant pourquoi la pente d&amp;rsquo;une courbe d&amp;rsquo;indifférence indique le nombre d&amp;rsquo;euros de biens que le travailleur est prêt à abandonner pour une heure de loisir supplémentaire (ou encore, le nombre d&amp;rsquo;euros de biens supplémentaires dont il a besoin pour renoncer à une heure de loisir).&lt;/p&gt;
 &lt;h4 id=&#34;la-pente-dune-courbe-dindifférence&#34;&gt;La pente d&amp;rsquo;une courbe d&amp;rsquo;indifférence&lt;/h4&gt;
 &lt;p&gt;Quel serait le degré de satisfaction du travailleur s&amp;rsquo;il consommait une &lt;em&gt;heure supplémentaire&lt;/em&gt; de loisir ou un &lt;em&gt;euro supplémentaire&lt;/em&gt; de biens ?
 L&amp;rsquo;&lt;strong&gt;utilité marginale &lt;em&gt;du loisir&lt;/em&gt;&lt;/strong&gt; (notée $MU_{L}$) mesure la variation de l&amp;rsquo;utilité du travailleur lorsqu&amp;rsquo;il consomme une heure supplémentaire de loisir, &lt;em&gt;en gardant constant ce qu&amp;rsquo;il dépense en biens&lt;/em&gt;.
@@ -387,7 +391,7 @@ Considérons les paniers $X$ et $Y$ de la figure ci-dessous (la même que celle 
 &lt;p&gt;Par conséquent, un mouvement de $X$ vers $Y$ implique que le travailleur a besoin de 240 euros supplémentaires de biens pour renoncer à 30 heures de loisir &lt;em&gt;et maintenir son utilité constante&lt;/em&gt;.
 Si nous permettions à $Y$ d&amp;rsquo;être &lt;em&gt;&amp;ldquo;très proche &amp;ldquo;&lt;/em&gt; de $X$ et que nous calculions la variation de la valeur en euros des biens par variation des heures de loisir, nous trouverions la &lt;em&gt;pente de la courbe d&amp;rsquo;indifférence&lt;/em&gt;.
 Cette pente mesure combien d&amp;rsquo;euros supplémentaires de biens convaincraient le travailleur de renoncer à une &lt;em&gt;&amp;ldquo;petite &amp;ldquo;&lt;/em&gt; quantité de loisir.
-Ce taux de variation est appelé le taux de substitution &lt;strong&gt;&lt;em&gt;marginal&lt;/em&gt; (TMS)&lt;/strong&gt; des biens de consommation aux loisirs.
+Ce taux de variation est appelé le &lt;strong&gt;taux marginal de substitution&lt;/strong&gt; des biens de consommation aux loisirs (en anglais, &lt;em&gt;marginal rate of substitution of consumption goods for leisure&lt;/em&gt;, &lt;strong&gt;MRS&lt;/strong&gt;).
 Il s&amp;rsquo;avère qu&amp;rsquo;il est égal à la valeur négative de l&amp;rsquo;utilité marginale relative des loisirs par rapport à celle de la consommation.
 C&amp;rsquo;est-à-dire,
 $$MRS_{C \text{ for } L}  \equiv \frac{dC}{dL} = -\frac{MU_{L}}{MU_{C}}$$&lt;/p&gt;
@@ -452,7 +456,7 @@ Les figures suivantes illustrent les préférences de deux travailleurs, Pascale
 &lt;/p&gt;
 &lt;p&gt;Les courbes d&amp;rsquo;indifférence de Florent sont plus raides : il n&amp;rsquo;est prêt à renoncer à une heure de loisir que s&amp;rsquo;il obtient une compensation monétaire importante en biens.
 En revanche, les courbes d&amp;rsquo;indifférence de Pascale sont plus plates : Elle est prête à renoncer à une heure de loisir pour une petite compensation monétaire.&lt;/p&gt;
-&lt;h3 id=&#34;la-contrainte-budgétaire&#34;&gt;La Contrainte Budgétaire&lt;/h3&gt;
+&lt;h3 id=&#34;la-contrainte-budgétaire&#34;&gt;La contrainte budgétaire&lt;/h3&gt;
 &lt;p&gt;Les gens font des choix parce qu&amp;rsquo;ils ont des ressources &lt;em&gt;limitées&lt;/em&gt;.
 Ici, le travailleur a deux contraintes : un montant donné de revenu à dépenser et 24 heures par jour.&lt;/p&gt;
 &lt;p&gt;Soit $V$ le &amp;ldquo;revenu *non salarial&amp;rdquo; du travailleur (la partie de son revenu qui est &lt;em&gt;indépendante&lt;/em&gt; du nombre d&amp;rsquo;heures qu&amp;rsquo;il travaille) et $h$ le nombre d&amp;rsquo;heures qu&amp;rsquo;il travaille (par exemple, dans une semaine).
@@ -496,7 +500,7 @@ Chaque heure de travail supplémentaire (c&amp;rsquo;est-à-dire chaque heure de
 &lt;p&gt;Nous allons maintenant parler du choix optimal du travailleur.
 Nous commençons par supposer que le travailleur trouve optimal de travailler et doit choisir le nombre d&amp;rsquo;heures de travail.
 Nous nous concentrerons ensuite sur la décision de travailler ou non.&lt;/p&gt;
-&lt;h3 id=&#34;combien-dheures-travailler-&#34;&gt;Combien d&amp;rsquo;Heures Travailler ?&lt;/h3&gt;
+&lt;h3 id=&#34;combien-dheures-travailler-&#34;&gt;Combien d&amp;rsquo;heures travailler ?&lt;/h3&gt;
 &lt;p&gt;Comme nous l&amp;rsquo;avons dit au début, nous supposons que le travailleur choisit le panier de biens de consommation et de loisirs qui maximise son utilité.
 En d&amp;rsquo;autres termes, il choisit le panier qui lui permet d&amp;rsquo;atteindre le niveau d&amp;rsquo;utilité le plus élevé (courbe d&amp;rsquo;indifférence la plus haute) compte tenu de sa contrainte budgétaire.&lt;/p&gt;
 &lt;p&gt;La figure ci-dessous illustre cette offre optimale, étiquetée $A$ dans la figure.&lt;/p&gt;
@@ -989,9 +993,9 @@ Les figures suivantes illustrent le rôle de ces dernières dans le cadre des al
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Elles montrent le choix optimal de loisir pour un travailleur ayant une préférence relativement élevée et faible pour le loisir.
-Ces travailleurs ne diffèrent que par leurs préférences et non par les contraintes budgétaires auxquelles ils font face avec ou sans allocations.
+Ces travailleurs ne diffèrent que par leurs préférences et non par les contraintes budgétaires auxquelles ils font face avec et sans allocations.
 Comme le montre la figure, les travailleurs ayant une faible préférence pour le loisir peuvent ne pas changer du tout leur décision de travailler, même si on leur offre des allocations $b$.
-En effet, le travailleur représenté à droite maximise son utilité en travaillant $T-L^{*}_{1}$ heures, au lieu de demander l&amp;rsquo;aide sociale.&lt;/p&gt;
+En effet, le travailleur représenté sur la deuxième figure maximise son utilité en travaillant $T-L^{*}_{1}$ heures, &lt;em&gt;au lieu de&lt;/em&gt; demander l&amp;rsquo;aide sociale.&lt;/p&gt;
 </description>
     </item>
     
