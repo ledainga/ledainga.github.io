@@ -707,11 +707,11 @@ Elle reçoit également 320 € d&amp;rsquo;allocations chaque semaine, indépen
     </item>
     
     <item>
-      <title>Assurance Chômage</title>
+      <title>Allocations Chômage</title>
       <link>https://leda-inga.github.io/courses/protection_sociale/assurance-chomage/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://leda-inga.github.io/courses/protection_sociale/assurance-chomage/</guid>
-      <description>&lt;h2 id=&#34;application-des-politiques-i--assurance-chômage&#34;&gt;Application des Politiques I : Assurance Chômage&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;application-des-politiques-i--les-allocations-chômage&#34;&gt;Application des Politiques I : Les allocations chômage&lt;/h2&gt;
 &lt;p&gt;L&amp;rsquo;assurance chômage vise à protéger les travailleurs contre la perte de revenus.
 Néanmoins, ce soutien au revenu &lt;em&gt;peut&lt;/em&gt; les décourager de reprendre le travail.
 Pour faire face à ces potentiels effets dissuasifs sur le travail, l&amp;rsquo;assurance chômage est généralement accordée sous les contraintes suivantes.&lt;/p&gt;
@@ -1179,21 +1179,23 @@ Cet effort de recherche plus faible diminue la probabilité de recevoir des offr
 &lt;h4 id=&#34;le-modèle-néoclassique-travail-loisir&#34;&gt;Le modèle néoclassique travail-loisir&lt;/h4&gt;
 &lt;p&gt;L&amp;rsquo;exercice suivant est tiré du Chapitre 12 du livre de Tito Boeri et Jan van Ours (voir syllabus).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Exercise 1&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;La fonction d&amp;rsquo;utilité de Jordan López pour la consommation $C$ et le loisir $L$ est :&lt;/p&gt;
+&lt;p&gt;La fonction d&amp;rsquo;utilité de Juan pour la consommation $C$ et le loisir $L$ est :&lt;/p&gt;
 &lt;p&gt;$$U(C,L) = C \times L.$$&lt;/p&gt;
-&lt;p&gt;La semaine compte 168 heures et il gagne 15 euros par heure.&lt;/p&gt;
+&lt;p&gt;Il dispose de 168 heures dans la semaine, n&amp;rsquo;a pas de revenu non salarial mais peut gagner 15 euros par heure s&amp;rsquo;il choisit de travailler.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Ecrivez la contrainte budgétaire de Jordan et représentez-la sur un graphique.&lt;/p&gt;
+&lt;p&gt;Ecrivez la contrainte budgétaire de Juan et représentez-la sur un graphique.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Quelle est la quantité optimale de consommation et de loisirs de Jordan ?&lt;/p&gt;
+&lt;p&gt;Quelle est son niveau optimal de consommation et de loisir ?&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Qu&amp;rsquo;advient-il de l&amp;rsquo;emploi et de la consommation si Jordan reçoit 320 euros d&amp;rsquo;allocations chômage chaque semaine ?&lt;/p&gt;
+&lt;p&gt;Supposons maintenant que Juan perde son emploi et ait droit à 320 euros d&amp;rsquo;allocations chômage par semaine.&lt;br&gt;
+Qu&amp;rsquo;adviendra-t-il de sa décision de travailler s&amp;rsquo;il reçoit à nouveau une offre d&amp;rsquo;emploi de 15 euros par heure ?&lt;br&gt;
+En particulier, choisira-t-il de retourner au travail ou préférera-t-il rester sans emploi et demander des allocations de chômage ?&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Quelle est la valeur des allocations chômage qui rendrait Jordan indifférent à l&amp;rsquo;idée de travailler ou de ne pas travailler ?&lt;/p&gt;
+&lt;p&gt;Quelle est la valeur des allocations de chômage qui rendrait Juan indifférent à l&amp;rsquo;idée de reprendre le travail ou non ?&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&#34;le-modèle-de-recherche-demploi&#34;&gt;Le modèle de recherche d&amp;rsquo;emploi&lt;/h4&gt;
