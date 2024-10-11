@@ -996,6 +996,229 @@ Les figures suivantes illustrent le rôle de ces dernières dans le cadre des al
 Ces travailleurs ne diffèrent que par leurs préférences et non par les contraintes budgétaires auxquelles ils font face avec et sans allocations.
 Comme le montre la figure, les travailleurs ayant une faible préférence pour le loisir peuvent ne pas changer du tout leur décision de travailler, même si on leur offre des allocations $b$.
 En effet, le travailleur représenté sur la deuxième figure maximise son utilité en travaillant $T-L^{*}_{1}$ heures, &lt;em&gt;au lieu de&lt;/em&gt; demander l&amp;rsquo;aide sociale.&lt;/p&gt;
+&lt;h3 id=&#34;les-allocations-de-chômage-et-la-décision-de-chercher-du-travail--un-modèle-de-recherche-demploi&#34;&gt;Les allocations de chômage et la décision de chercher du travail : Un modèle de recherche d&amp;rsquo;emploi&lt;/h3&gt;
+&lt;p&gt;Le modèle néoclassique travail-loisir que nous avons vu précédemment suppose que les individus peuvent trouver un emploi &lt;em&gt;immédiatement&lt;/em&gt; s&amp;rsquo;ils choisissent de travailler.
+Ce modèle nous aide donc à comprendre les effets des allocations sociales sur la décision des individus de rejoindre la population active, mais pas sur leur décision de continuer à chercher du travail, et donc de &lt;em&gt;rester au chômage&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Rappel&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Un &lt;strong&gt;chômeur&lt;/strong&gt; est défini comme quelqu&amp;rsquo;un qui n&amp;rsquo;est pas employé &lt;em&gt;mais&lt;/em&gt; qui souhaite travailler et recherche activement un emploi.&lt;/p&gt;
+&lt;p&gt;Dans le modèle travail-loisir, les chômeurs n&amp;rsquo;existent pas vraiment puisque, par hypothèse, on peut trouver un emploi immédiatement.
+Dans ce modèle, les personnes sont &lt;em&gt;soit&lt;/em&gt; employées &lt;em&gt;soit&lt;/em&gt; hors de la population active.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dans cette section, nous présentons le &lt;strong&gt;modèle de base de la recherche d&amp;rsquo;emploi&lt;/strong&gt; qui repose sur l&amp;rsquo;hypothèse plus réaliste que les individus doivent investir du temps et des efforts pour trouver un emploi.
+Ce modèle permet de comprendre comment les allocations de chômage peuvent modifier les &lt;em&gt;décisions de recherche d&amp;rsquo;emploi&lt;/em&gt; des individus et, en fin de compte, leur durée de chômage.
+En particulier, nous examinerons comment les allocations de chômage peuvent affecter &lt;em&gt;le degré d&amp;rsquo;exigence&lt;/em&gt; des personnes dans le choix de leur emploi et &lt;em&gt;l&amp;rsquo;intensité&lt;/em&gt; de leur recherche d&amp;rsquo;emploi.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;hypothèse sous-jacente du modèle de recherche d&amp;rsquo;emploi est que les personnes disposent d&amp;rsquo;informations &lt;strong&gt;imparfaites&lt;/strong&gt; sur quelles entreprises offrent des emplois qui leur conviennent, de sorte qu&amp;rsquo;elles passent du temps à chercher qui offre quoi.
+Dans ce modèle, différentes entreprises offrent des &lt;em&gt;salaires&lt;/em&gt; différents au &lt;em&gt;même&lt;/em&gt; travailleur.
+Les personnes souhaitant travailler sont donc encouragées à rechercher des emplois mieux rémunérés jusqu&amp;rsquo;à ce qu&amp;rsquo;elles trouvent une offre salariale &amp;ldquo;suffisante&amp;rdquo;.
+Ce processus de recherche d&amp;rsquo;emploi ressemble à la recherche d&amp;rsquo;un appartement à louer : on ne sait pas vraiment qui offre quoi, alors on cherche autour de soi, en essayant de trouver le meilleur loyer possible, mais on arrête de chercher une fois qu&amp;rsquo;on a trouvé une offre &amp;ldquo;suffisamment bonne&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Dans le modèle de recherche d&amp;rsquo;emploi, les chercheurs d&amp;rsquo;emploi font deux choix différents.
+Premièrement, ils choisissent à quel point ils sont &amp;ldquo;exigeants&amp;rdquo; dans leur recherche d&amp;rsquo;emploi : quel est le salaire minimum qu&amp;rsquo;ils sont prêts à accepter pour cesser de chercher de nouvelles offres d&amp;rsquo;emploi ?
+Deuxièmement, ils choisissent l&amp;rsquo;intensité de leur recherche d&amp;rsquo;emploi : combien d&amp;rsquo;heures par jour doivent-ils consacrer à contacter des agences pour l&amp;rsquo;emploi, à envoyer des candidatures, à se rendre à des entretiens d&amp;rsquo;embauche, etc.&lt;/p&gt;
+&lt;p&gt;Ces deux choix, à leur tour, influencent la probabilité de quitter le chômage et de commencer à travailler.
+Pour comprendre pourquoi, notons que cette probabilité (notée $\phi$) dépend de :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la probabilité de &lt;em&gt;recevoir&lt;/em&gt; une offre d&amp;rsquo;emploi $(\lambda)$ &lt;em&gt;et&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;la probabilité de &lt;em&gt;l&amp;rsquo;accepter&lt;/em&gt; $(\gamma).$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Plus précisément,&lt;/p&gt;
+&lt;p&gt;$$\phi = \lambda \gamma$$&lt;/p&gt;
+&lt;p&gt;Dans le modèle de recherche d&amp;rsquo;emploi, les choix des personnes influencent cette probabilité de deux manières :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ils peuvent chercher davantage et augmenter ainsi leurs chances de recevoir une offre d&amp;rsquo;emploi $(\lambda)$ &lt;em&gt;ou&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ils peuvent devenir moins &amp;ldquo;exigeants&amp;rdquo; quant aux offres qu&amp;rsquo;ils acceptent et donc augmenter leurs chances d&amp;rsquo;accepter un emploi $(\gamma).$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bien que les demandeurs d&amp;rsquo;emploi puissent choisir &lt;em&gt;à la fois&lt;/em&gt; l&amp;rsquo;intensité de leur recherche et leur degré d&amp;rsquo;exigence, pour simplifier, nous n&amp;rsquo;examinerons qu&amp;rsquo;un seul choix à la fois.&lt;/p&gt;
+&lt;p&gt;La discussion qui suit s&amp;rsquo;inspire largement du chapitre 12 du livre de George Borjas et du chapitre 7 de celui de Bruno Van der Linden (voir le syllabus).&lt;/p&gt;
+&lt;h4 id=&#34;choisir-à-quel-point-être-exigeant--le-salaire-demandé&#34;&gt;Choisir à quel point être &amp;ldquo;exigeant&amp;rdquo; : le salaire demandé&lt;/h4&gt;
+&lt;p&gt;Concentrons-nous sur un &lt;em&gt;seul&lt;/em&gt; individu ayant un ensemble donné de compétences et souhaitant travailler.
+Comme nous l&amp;rsquo;avons dit précédemment, nous supposons que cette personne peut travailler pour différentes entreprises, payant différents salaires, mais qu&amp;rsquo;elle ne sait pas qui paie quoi.
+Néanmoins, nous supposons que l&amp;rsquo;individu connaît la distribution des offres salariales qui lui sont proposées sur le marché du travail.
+En d&amp;rsquo;autres termes, elle connaît le salaire minimum et le salaire maximum qu&amp;rsquo;elle peut obtenir compte tenu de ses compétences, ainsi que la probabilité cumulée de tout salaire situé entre les deux.
+La figure ci-dessous représente une distribution typique d&amp;rsquo;offres salariales, dans laquelle nous avons supposé un salaire minimum et maximum de 5 et 25 euros, respectivement.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/wage_distribution_a.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Comme l&amp;rsquo;individu connaît la forme de cette distribution, il sait qu&amp;rsquo;il a peu de chances de trouver un emploi payé moins de 8 euros ou plus de 22 euros (la probabilité de trouver ces offres est représentée par la zone en bleu &lt;em&gt;foncé&lt;/em&gt; dans la figure ci-dessus).
+La forme de cette distribution reflète simplement le fait que les options &amp;ldquo;extrêmement mauvaises&amp;rdquo; ou &amp;ldquo;extrêmement bonnes&amp;rdquo; sont rares.&lt;/p&gt;
+&lt;p&gt;Bien que l&amp;rsquo;individu puisse être tenté de continuer à chercher jusqu&amp;rsquo;à ce qu&amp;rsquo;il trouve la &amp;ldquo;bonne grosse&amp;rdquo; affaire (ici, l&amp;rsquo;emploi payé 25 euros), il reconnaît que la recherche est coûteuse.
+Les coûts de recherche comprennent les &lt;em&gt;coûts directs&lt;/em&gt;, tels que les billets de transport pour les entretiens d&amp;rsquo;embauche, mais aussi le &lt;em&gt;coût d&amp;rsquo;opportunité&lt;/em&gt; de continuer à chercher &lt;em&gt;au lieu&lt;/em&gt; de travailler pour un salaire.
+En effet, chaque fois que l&amp;rsquo;individu choisit de rejeter une offre de salaire donnée, disons de $w$ euros, il renonce à $w$ euros de revenu.
+Plus le salaire proposé est élevé, plus élevé est son coût d&amp;rsquo;opportunité de continuer à chercher de meilleures offres.
+L&amp;rsquo;individu est donc confronté à un compromis : plus il cherche longtemps, plus il a de chances de trouver une offre salariale élevée, mais plus sa recherche est coûteuse.&lt;/p&gt;
+&lt;p&gt;À quel moment doit-il se contenter de l&amp;rsquo;offre salariale sous la main et cesser de chercher un emploi ?
+Il doit le faire lorsqu&amp;rsquo;il trouve une offre salariale supérieure au seuil minimum, appelé &amp;ldquo;salaire demandé&amp;rdquo;.
+Pour comprendre comment l&amp;rsquo;individu fixe ce salaire demandé, nous devons réfléchir aux coûts et aux avantages de la poursuite de la recherche d&amp;rsquo;un emploi.
+Comme nous le verrons, le salaire demandé est le salaire auquel le bénéfice marginal est égal au coût marginal de la recherche (disons de chercher &lt;em&gt;encore&lt;/em&gt; une semaine).
+Pour tout salaire supérieure au salaire demandé, les coûts de poursuivre la recherche l&amp;rsquo;emportent sur les bénéfices.&lt;/p&gt;
+&lt;h5 id=&#34;le-coût-marginal-de-la-recherche&#34;&gt;&lt;em&gt;Le coût marginal de la recherche&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Comme nous l&amp;rsquo;avons noté précédemment, plus élevée l&amp;rsquo;offre salariale à la main, &lt;em&gt;plus élevé&lt;/em&gt; le coût d&amp;rsquo;opportunité d&amp;rsquo;une recherche supplémentaire.
+Par conséquent, le coût marginal de la recherche $(MC)$ est une fonction croissante du salaire disponible, comme le montre la figure ci-dessous.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/asking_wage.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h5 id=&#34;le-bénéfice-marginal-de-la-recherche&#34;&gt;&lt;em&gt;Le bénéfice marginal de la recherche&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;En revanche, plus élevée l&amp;rsquo;offre salariale à la main, &lt;em&gt;plus faible&lt;/em&gt; le gain attendu d&amp;rsquo;une recherche supplémentaire.
+En effet, meilleure est l&amp;rsquo;offre que nous trouvons, moins nous avons de chances de faire &lt;em&gt;encore&lt;/em&gt; mieux.
+Supposons que l&amp;rsquo;individu trouve l&amp;rsquo;emploi le mieux rémunéré, soit 25 euros dans la figure ci-dessus.
+Le gain marginal de continuer à chercher est nul puisqu&amp;rsquo;il n&amp;rsquo;y a aucune chance qu&amp;rsquo;elle trouve un salaire plus élevé.
+À l&amp;rsquo;autre extrême, disons que la personne n&amp;rsquo;a pas de chance et trouve l&amp;rsquo;emploi le moins bien payé, soit 5 euros.
+Dans ce cas, le gain marginal de continuer à chercher est substantiel puisque les chances de trouver un emploi rémunéré à plus de 5 euros sont assez élevées.&lt;/p&gt;
+&lt;p&gt;Le bénéfice marginal de la recherche $(MB)$ est donc une fonction décroissante du salaire disponible, comme le montre la figure ci-dessus.&lt;/p&gt;
+&lt;h5 id=&#34;le-salaire-demandé&#34;&gt;&lt;em&gt;Le salaire demandé&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Comme la figure le révèle, le &lt;strong&gt;salaire demandé&lt;/strong&gt; $(w^{a})$ rend l&amp;rsquo;individu &lt;em&gt;indifférent&lt;/em&gt; entre accepter une offre et poursuivre sa recherche d&amp;rsquo;emploi.&lt;br&gt;
+Pour comprendre pourquoi, supposons que l&amp;rsquo;individu reçoive une offre d&amp;rsquo;emploi payée $w_{0}&amp;lt;w^{a}$.
+Devrait-elle se contenter de ce salaire et cesser de chercher des salaires plus élevés ?
+Non, car le bénéfice marginal de la recherche est supérieur au coût marginal.
+Elle doit donc continuer à chercher de meilleurs emplois.
+Imaginons maintenant que l&amp;rsquo;individu reçoive une offre salariale de $w_{1}&amp;gt;w^{a}$.
+Dans ce cas, elle devrait accepter l&amp;rsquo;offre et cesser de chercher parce que le bénéfice marginal de la recherche est inférieur au coût marginal.&lt;/p&gt;
+&lt;h5 id=&#34;comment-les-allocations-de-chômage-changent-elles-le-salaire-demandé-&#34;&gt;&lt;em&gt;Comment les allocations de chômage changent-elles le salaire demandé ?&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Comme nous l&amp;rsquo;avons vu auparavant, le fait de chercher plus longtemps de meilleurs emplois entraîne à la fois des coûts directs et un coût d&amp;rsquo;opportunité.
+Au lieu de poursuivre sa recherche, un demandeur d&amp;rsquo;emploi pourrait accepter l&amp;rsquo;offre de salaire qui lui est faite.
+Ainsi, le coût d&amp;rsquo;opportunité d&amp;rsquo;une recherche prolongée est le revenu auquel le demandeur d&amp;rsquo;emploi renonce en &lt;em&gt;n&amp;rsquo;acceptant pas&lt;/em&gt; son offre actuelle.
+Mais si elle reçoit $b$ euros par mois &lt;em&gt;pendant&lt;/em&gt; qu&amp;rsquo;elle cherche un emploi en tant que chômeuse, elle renonce à un revenu de &lt;em&gt;juste&lt;/em&gt; $\phantom{|}w-b$ euros par mois.
+En d&amp;rsquo;autres termes, elle renonce à son offre salariale actuelle &lt;em&gt;net des&lt;/em&gt; allocations chômage.&lt;/p&gt;
+&lt;p&gt;Les allocations de chômage réduisent donc le coût marginal de la recherche d&amp;rsquo;emploi, ce qui augmente le salaire demandé.
+Ce salaire demandé plus élevé entraîne à son tour des périodes de chômage plus longues.
+Étant donné que les gens n&amp;rsquo;acceptent que des emplois dont le salaire est supérieur à leur salaire demandé, plus élevé ce salaire, plus faible est la probabilité qu&amp;rsquo;ils acceptent les offres d&amp;rsquo;emploi qui leur sont faites.&lt;/p&gt;
+&lt;p&gt;Les décideurs politiques sont donc confrontés à un compromis : des allocations de chômage plus élevées offrent une meilleure assurance contre la perte d&amp;rsquo;emploi &lt;em&gt;mais&lt;/em&gt; diminuent les incitations à &lt;em&gt;accepter les offres d&amp;rsquo;emploi entrantes&lt;/em&gt;, prolongeant ainsi le chômage.&lt;/p&gt;
+&lt;h4 id=&#34;choisir-lintensité-de-la-recherche-demploi--effort-de-recherche&#34;&gt;Choisir l&amp;rsquo;intensité de la recherche d&amp;rsquo;emploi : Effort de recherche&lt;/h4&gt;
+&lt;p&gt;Dans notre discussion précédente sur le salaire demandé, nous avons ignoré l&amp;rsquo;&lt;em&gt;effort&lt;/em&gt; de recherche d&amp;rsquo;emploi.
+Nous avons implicitement supposé que l&amp;rsquo;individu n&amp;rsquo;avait aucun contrôle sur le nombre d&amp;rsquo;offres salariales qu&amp;rsquo;elle recevait, mais seulement sur celles qu&amp;rsquo;elle était prête à accepter.&lt;/p&gt;
+&lt;p&gt;Nous supposons donc à présent que si elle cherche davantage (par exemple, en consacrant plus d&amp;rsquo;heures par semaine à la recherche d&amp;rsquo;un emploi), elle reçoit plus d&amp;rsquo;offres salariales ou, alternativement, qu&amp;rsquo;elle a une probabilité &lt;em&gt;plus élevée&lt;/em&gt; d&amp;rsquo;en recevoir une.
+Néanmoins, nous supposons également qu&amp;rsquo;il est coûteux de chercher davantage.&lt;/p&gt;
+&lt;p&gt;Soit $e$ le niveau d&amp;rsquo;effort de recherche d&amp;rsquo;emploi.&lt;/p&gt;
+&lt;h5 id=&#34;le-coût-marginal-de-leffort-de-recherche&#34;&gt;&lt;em&gt;Le coût marginal de l&amp;rsquo;effort de recherche&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Nous supposons que l&amp;rsquo;effort de recherche est &lt;em&gt;de plus en plus&lt;/em&gt; coûteux.&lt;br&gt;
+Laissons $C(e)$ désigner le coût de l&amp;rsquo;effort, y compris les coûts monétaires et &lt;em&gt;non&lt;/em&gt; monétaires (par exemple, les billets de transport pour les entretiens d&amp;rsquo;embauche, les coûts psychologiques et le temps de loisir perdu).&lt;br&gt;
+Nous supposons donc que le coût marginal de l&amp;rsquo;effort, $C^{\prime}(e)$, est positif et croissant.&lt;/p&gt;
+&lt;h5 id=&#34;le-bénéfice-marginal-de-leffort-de-recherche&#34;&gt;&lt;em&gt;Le bénéfice marginal de l&amp;rsquo;effort de recherche&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;Nous supposons qu&amp;rsquo;une recherche plus intensive est payante, mais à un taux &lt;em&gt;décroissant&lt;/em&gt;.
+Un effort accru est bénéfique pour le demandeur d&amp;rsquo;emploi parce que :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;il augmente ses chances de recevoir des offres d&amp;rsquo;emploi, &lt;em&gt;et&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;les offres d&amp;rsquo;emploi sont avantageuses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Plus précisément, nous faisons les hypothèses suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Une unité d&amp;rsquo;effort supplémentaire augmente la probabilité de recevoir une offre &lt;em&gt;mais moins&lt;/em&gt; que la précédente.&lt;br&gt;
+Soit $\lambda(e)$ la probabilité de recevoir une offre d&amp;rsquo;emploi avec un niveau d&amp;rsquo;effort $e.$&lt;br&gt;
+Nous supposons donc que $\lambda^{\prime}(e)$ est positif mais décroissante.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Si l&amp;rsquo;individu ne reçoit pas d&amp;rsquo;offre d&amp;rsquo;emploi, il demande des allocations de chômage $b$ et cesse de chercher (il n&amp;rsquo;y a pas de sanctions pour ceux qui ne cherchent plus d&amp;rsquo;emploi).
+Cependant, si elle reçoit une offre $w$, elle l&amp;rsquo;accepte car nous supposons que cette offre est meilleure que la demande d&amp;rsquo;allocations.
+En particulier,&lt;/p&gt;
+&lt;p&gt;$$v(w)-v(b)&amp;gt;0$$&lt;/p&gt;
+&lt;p&gt;où :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;$v(w)$ : l&amp;rsquo;utilité d&amp;rsquo;obtenir une offre rémunérée au salaire $w$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;$v(b)$ : l&amp;rsquo;utilité de recevoir des allocations de chômage $b$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Par conséquent, l&amp;rsquo;espérance de bénéfice de choisir l&amp;rsquo;effort $e$ est :&lt;/p&gt;
+&lt;p&gt;$$\lambda(e)v(w) + (1-\lambda(e))v(b)$$&lt;/p&gt;
+&lt;p&gt;et le bénéfice marginal de l&amp;rsquo;effort :&lt;/p&gt;
+&lt;p&gt;$$\lambda^{\prime}(e)[v(w)-v(b)] &amp;gt;0$$&lt;/p&gt;
+&lt;p&gt;En d&amp;rsquo;autres termes : les bénéfices d&amp;rsquo;une unité &lt;em&gt;supplémentaire&lt;/em&gt; d&amp;rsquo;effort sont les chances &lt;em&gt;additionnelles&lt;/em&gt; d&amp;rsquo;obtenir un emploi qui en découlent &lt;em&gt;fois&lt;/em&gt; la valeur de cet emploi &lt;em&gt;par rapport&lt;/em&gt; aux allocations chômage.&lt;/p&gt;
+&lt;h5 id=&#34;le-niveau-optimal-deffort&#34;&gt;&lt;em&gt;Le niveau optimal d&amp;rsquo;effort&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;L&amp;rsquo;individu choisit le niveau d&amp;rsquo;effort qui maximise l&amp;rsquo;espérance de son utilité nette de coûts :&lt;/p&gt;
+&lt;p&gt;$$\lambda(e)v(w) + (1-\lambda(e))v(b) - C(e)$$&lt;/p&gt;
+&lt;p&gt;Par conséquent, l&amp;rsquo;effort optimal $(e^{*})$ vérifie la condition du premier ordre suivante :&lt;/p&gt;
+&lt;p&gt;$$\lambda^{\prime}(e^{\star})v(w) - \lambda^{\prime}(e^{\star})v(b) - C^{\prime}(e^{\star}) = 0$$&lt;/p&gt;
+&lt;p&gt;$$\lambda^{\prime}(e^{\star})[v(w)-v(b)] = C^{\prime}(e^{\star}) $$&lt;/p&gt;
+&lt;h5 id=&#34;comment-les-allocations-chômage-changent-elles-leffort-optimal-&#34;&gt;&lt;em&gt;Comment les allocations chômage changent-elles l&amp;rsquo;effort optimal ?&lt;/em&gt;&lt;/h5&gt;
+&lt;p&gt;La condition précédente montre que l&amp;rsquo;individu cherchera davantage lorsqu&amp;rsquo;il est confronté à un coût marginal de l&amp;rsquo;effort plus faible.
+En outre, il cherchera également plus intensément lorsqu&amp;rsquo;il percevra un salaire plus élevé &lt;em&gt;net des allocations&lt;/em&gt;.
+Par conséquent, des allocations de chômage plus généreuses réduisent l&amp;rsquo;effort de recherche d&amp;rsquo;emploi.
+Cet effort de recherche plus faible diminue la probabilité de recevoir des offres d&amp;rsquo;emploi, prolongeant ainsi le chômage.&lt;/p&gt;
+&lt;h3 id=&#34;exercises&#34;&gt;Exercises&lt;/h3&gt;
+&lt;h4 id=&#34;le-modèle-néoclassique-travail-loisir&#34;&gt;Le modèle néoclassique travail-loisir&lt;/h4&gt;
+&lt;p&gt;L&amp;rsquo;exercice suivant est tiré du Chapitre 12 du livre de Tito Boeri et Jan van Ours (voir syllabus).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exercise 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La fonction d&amp;rsquo;utilité de Jordan López pour la consommation $C$ et le loisir $L$ est :&lt;/p&gt;
+&lt;p&gt;$$U(C,L) = C \times L.$$&lt;/p&gt;
+&lt;p&gt;La semaine compte 168 heures et il gagne 15 euros par heure.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ecrivez la contrainte budgétaire de Jordan et représentez-la sur un graphique.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quelle est la quantité optimale de consommation et de loisirs de Jordan ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Qu&amp;rsquo;advient-il de l&amp;rsquo;emploi et de la consommation si Jordan reçoit 320 euros d&amp;rsquo;allocations chômage chaque semaine ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quelle est la valeur des allocations chômage qui rendrait Jordan indifférent à l&amp;rsquo;idée de travailler ou de ne pas travailler ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;le-modèle-de-recherche-demploi&#34;&gt;Le modèle de recherche d&amp;rsquo;emploi&lt;/h4&gt;
+&lt;p&gt;L&amp;rsquo;exercice suivant est tiré du Chapitre 12 du livre de George Borjas (voir syllabus).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exercise 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Supposons que le bénéfice marginal de la recherche soit&lt;/p&gt;
+&lt;p&gt;$$MB = 50 - 1.5w,$$&lt;/p&gt;
+&lt;p&gt;où $w$ est l&amp;rsquo;offre salariale disponible. Le coût marginal de la recherche est de&lt;/p&gt;
+&lt;p&gt;$$MC = 5 + w.$$&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Pourquoi le bénéfice marginal de la recherche est-il une fonction négative de l&amp;rsquo;offre salariale disponible ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pouvez-vous donner une interprétation économique de l&amp;rsquo;ordonnée à l&amp;rsquo;origine dans l&amp;rsquo;équation du coût marginal ; en d&amp;rsquo;autres termes, que signifie le fait que l&amp;rsquo;ordonnée à l&amp;rsquo;origine est égale à 5 euros ?&lt;br&gt;
+De même, que signifie le fait que la pente dans l&amp;rsquo;équation du coût marginal est égale à 1 euro ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quel est le salaire demandé par l&amp;rsquo;individu&amp;rsquo;? Acceptera-t-il une offre d&amp;rsquo;emploi de 15 euros ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Supposons que les allocations chômage soient réduites, ce qui entraîne une augmentation du coût marginal de la recherche à $MC = 20 + w.$ Quel est le nouveau salaire demandé ?
+L&amp;rsquo;individu acceptera-t-il une offre d&amp;rsquo;emploi de 15 euros ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
