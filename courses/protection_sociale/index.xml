@@ -1224,5 +1224,333 @@ L&amp;rsquo;individu acceptera-t-il une offre d&amp;rsquo;emploi de 15 euros ?&l
 </description>
     </item>
     
+    <item>
+      <title>Analyse Empirique</title>
+      <link>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</guid>
+      <description>&lt;h3 id=&#34;analyse-empirique&#34;&gt;Analyse Empirique&lt;/h3&gt;
+&lt;p&gt;Dans cette section, nous discuterons de deux articles étudiant les effets des prestations sociales sur l&amp;rsquo;emploi.&lt;/p&gt;
+&lt;p&gt;Les questions de recherche que nous aimerions résoudre sont :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Les personnes qualifiant pour les prestations sociales travailleraient-elles &lt;em&gt;si elles n&amp;rsquo;étaient pas qualifiées pour celles-ci&lt;/em&gt; ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Travailleraient-elles plus d&amp;rsquo;heures &lt;em&gt;en l&amp;rsquo;absence de prestations&lt;/em&gt; ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce sont des questions de &lt;em&gt;cause à effet&lt;/em&gt;, car elles impliquent de répondre à la manière dont les personnes se comporteraient &lt;em&gt;si d&amp;rsquo;autres choses restaient égales&lt;/em&gt; à part leur éligibilité aux prestations sociales.
+Déterminer ce que les personnes &lt;em&gt;feraient&lt;/em&gt; &lt;em&gt;si&lt;/em&gt; elles n&amp;rsquo;avaient pas droit à des prestations est un défi difficile à relever dans la recherche empirique.
+À première vue, il peut être tentant de comparer des individus avec et sans prestations (ou ceux avec des prestations élevées et faibles).
+Néanmoins, cette comparaison peut être trompeuse.&lt;/p&gt;
+&lt;p&gt;Pour comprendre pourquoi, prenons un exemple concret.
+Supposons que nous souhaitions évaluer les effets de prestations d&amp;rsquo;invalidité généreuses sur la décision de travailler.
+Comparer ceux qui ont droit à des prestations plus et moins élevées nous aiderait-il à tirer des conclusions &lt;em&gt;fiables&lt;/em&gt; ?
+Pas vraiment.&lt;br&gt;
+Ces groupes peuvent partager des caractéristiques &lt;em&gt;intrinsèquement&lt;/em&gt; différentes qui influencent leurs choix de travail.
+Ainsi, les comparer serait semblable à comparer des pommes et des oranges.
+En particulier, il est probable que ces individus prendraient &lt;em&gt;de toute façon&lt;/em&gt; des décisions de travail différentes, même s&amp;rsquo;ils n&amp;rsquo;avaient droit à aucune prestation.
+Pourquoi ?
+Il peut y avoir de nombreuses raisons en jeu.&lt;br&gt;
+Par exemple, des prestations d&amp;rsquo;invalidité plus élevées sont généralement offertes à ceux qui ont eu un revenu salarial plus faible &lt;em&gt;dans le passé&lt;/em&gt;.
+Si ces individus ont de moins bonnes opportunités d&amp;rsquo;emploi dès le départ, leur probabilité de rejoindre le marché du travail sera plus faible, &lt;em&gt;même sans&lt;/em&gt; prestations.&lt;br&gt;
+Ce groupe de personnes ayant gagné moins dans le passé peut également inclure ceux qui ont une préférence plus élevée pour le loisir et qui, par conséquent, ont moins de chances de travailler &lt;em&gt;quelles que soient&lt;/em&gt; les prestations dont ils disposent.
+En fait, certaines de ces personnes pourraient avoir intérêt à frauder le système de prestations d&amp;rsquo;invalidité en prétendant que leur condition de santé les empêche de travailler, alors qu&amp;rsquo;en réalité, ce qui les éloigne du marché du travail, c&amp;rsquo;est leur préférence plus marquée pour le loisir.&lt;/p&gt;
+&lt;p&gt;Bien qu&amp;rsquo;il soit difficile de faire des comparaisons où &lt;em&gt;d&amp;rsquo;autres choses restent égales&lt;/em&gt;, ce n&amp;rsquo;est pas nécessairement impossible.
+En effet, les économistes ont développé différentes méthodes pour utiliser les données afin de rendre &lt;em&gt;d&amp;rsquo;autres choses égales&lt;/em&gt;, c&amp;rsquo;est-à-dire construire des comparaisons de type &amp;ldquo;pomme à pomme&amp;rdquo;.
+Deux méthodes populaires sont :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Différence de différences&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Régression par discontinuité&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pour vous donner une introduction intuitive à ces méthodes, supposons que nous voulons examiner les effets des prestations sociales sur un ensemble donné de résultats &lt;strong&gt;d&amp;rsquo;emploi&lt;/strong&gt;, tels que la probabilité de travailler et le nombre moyen d&amp;rsquo;heures de travail.
+De plus, disons que nous pouvons clairement identifier un groupe qui est &lt;em&gt;éligible&lt;/em&gt; aux prestations sociales et un autre qui est &lt;em&gt;non éligible&lt;/em&gt;.
+Dans le jargon de l&amp;rsquo;économie appliquée, l&amp;rsquo;éligibilité à un programme gouvernemental, ici les prestations sociales, est appelée &lt;strong&gt;&amp;ldquo;traitement&amp;rdquo;&lt;/strong&gt;.
+Les individus éligibles seraient à leur tour le &lt;strong&gt;&amp;ldquo;groupe traité&amp;rdquo;&lt;/strong&gt;, tandis que les inéligibles seraient le &lt;strong&gt;&amp;ldquo;groupe de contrôle&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La méthode de &lt;strong&gt;différence de différences&lt;/strong&gt; tient compte du fait que les groupes traité et de contrôle peuvent être intrinsèquement différents en comparant les &lt;strong&gt;tendances&lt;/strong&gt; de leurs résultats, plutôt que les niveaux, sur une période au cours de laquelle le traitement prend effet.
+L&amp;rsquo;hypothèse clé qui rend cette méthode fiable est que, &lt;em&gt;en l&amp;rsquo;absence du traitement&lt;/em&gt;, les résultats du groupe traité auraient évolué de la même manière que ceux du groupe de contrôle.
+Cette hypothèse est appelée l&amp;rsquo;hypothèse des &lt;strong&gt;tendances &lt;em&gt;communes&lt;/em&gt;&lt;/strong&gt; ou des &lt;strong&gt;tendances &lt;em&gt;parallèles&lt;/em&gt;&lt;/strong&gt;.
+La figure ci-dessous illustre l&amp;rsquo;estimation par différence de différences de l&amp;rsquo;effet d&amp;rsquo;une politique fictive (traitement) sur les résultats d&amp;rsquo;emploi.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/dd.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Comme le montre cette figure, comparer les résultats &lt;em&gt;post&lt;/em&gt;-traitement des individus traités et de contrôle peut nous amener à surestimer l&amp;rsquo;effet de la politique.
+En effet, cette différence peut non seulement refléter l&amp;rsquo;effet de la politique &lt;em&gt;mais aussi&lt;/em&gt; toute différence intrinsèque dans leurs résultats en l&amp;rsquo;absence de la politique.&lt;/p&gt;
+&lt;p&gt;Contrairement à la différence de différences, la &lt;strong&gt;régression par discontinuité&lt;/strong&gt; ne compare pas les tendances des résultats mais directement leurs &lt;em&gt;niveaux&lt;/em&gt;.
+À première vue, cette approche peut sembler en désaccord avec notre discussion précédente sur l&amp;rsquo;importance d&amp;rsquo;éviter de comparer des pommes et des oranges.
+Néanmoins, la régression par discontinuité peut rendre cette comparaison légale en utilisant des individus traités et de contrôle qui sont &lt;em&gt;&amp;ldquo;juste à côté l&amp;rsquo;un de l&amp;rsquo;autre&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Prenons un exemple.
+Considérons que les prestations sociales sont accordées uniquement aux personnes âgées de plus de 26 ans.
+Cette limite d&amp;rsquo;âge créerait alors une &amp;ldquo;expérience naturelle&amp;rdquo; nous permettant d&amp;rsquo;étudier les effets des prestations sociales en définissant ceux de &lt;em&gt;plus&lt;/em&gt; de 26 ans comme le groupe &lt;em&gt;traité&lt;/em&gt; et ceux de &lt;em&gt;moins&lt;/em&gt; de 26 ans comme le groupe de &lt;em&gt;contrôle&lt;/em&gt;.
+Il est vrai que les individus plus jeunes et plus âgés sont susceptibles d&amp;rsquo;être différents à bien des égards, &lt;em&gt;au-delà&lt;/em&gt; de leur éligibilité aux prestations sociales.
+Cependant, ceux qui sont &lt;em&gt;juste&lt;/em&gt; au-dessus et &lt;em&gt;juste&lt;/em&gt; en dessous du seuil de 26 ans sont susceptibles d&amp;rsquo;être comparables.
+C&amp;rsquo;est la principale idée derrière la régression par discontinuité.&lt;/p&gt;
+&lt;p&gt;Plus formellement, l&amp;rsquo;hypothèse clé de cette méthode est que &lt;em&gt;&amp;ldquo;toutes les autres choses »&lt;/em&gt; changent de manière continue autour du seuil.
+En d&amp;rsquo;autres termes, les différences &lt;em&gt;intrinsèques&lt;/em&gt; entre les individus traités et de contrôle ne changent &lt;em&gt;pas&lt;/em&gt; de  manière &lt;em&gt;abrupte&lt;/em&gt; au niveau du seuil.
+Si cette hypothèse tient, les individus qui sont &lt;em&gt;juste&lt;/em&gt; au-dessus et en dessous du seuil (26 ans) sont à peine différents les uns des autres &lt;em&gt;sauf&lt;/em&gt; pour leur statut de traitement.
+Ainsi, toute différence abrupte dans leurs résultats observée &lt;em&gt;juste au niveau du seuil&lt;/em&gt; peut être attribuée au traitement (éligibilité aux prestations sociales).
+La figure ci-dessous illustre cet effet du traitement.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/rd.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Cette figure trace les résultats d&amp;rsquo;emploi moyens en fonction de l&amp;rsquo;âge, la variable assignant le traitement (éligibilité aux prestations).
+Les lignes pleines montrent les résultats &lt;em&gt;observés&lt;/em&gt;, tandis que les lignes pointillées montrent les résultats &lt;em&gt;contrefactuels&lt;/em&gt;.
+En particulier, la ligne rouge pointillée montre les résultats moyens que les individus traités auraient eus &lt;em&gt;s&amp;rsquo;ils n&amp;rsquo;avaient pas reçu le traitement&lt;/em&gt;.
+L&amp;rsquo;effet du traitement pour ces individus est simplement l&amp;rsquo;écart entre leurs résultats réels et &lt;em&gt;contrefactuels&lt;/em&gt;.
+Comme ces résultats contrefactuels ne peuvent pas être observés, nous devons les estimer.&lt;/p&gt;
+&lt;p&gt;Cette figure présente les résultats d&amp;rsquo;emploi moyens en fonction de l&amp;rsquo;âge, la variable assignant le traitement (éligibilité aux prestations).
+Les lignes pleines indiquent les résultats &lt;em&gt;observés&lt;/em&gt;, tandis que les lignes pointillées indiquent les résultats &lt;em&gt;contrefactuels&lt;/em&gt;.
+En particulier, la ligne pointillée rouge montre les résultats moyens que les individus traités auraient eus &lt;em&gt;s&amp;rsquo;ils n&amp;rsquo;avaient pas reçu le traitement&lt;/em&gt;.
+L&amp;rsquo;effet du traitement pour ces personnes est simplement l&amp;rsquo;écart entre leurs résultats réels et &lt;em&gt;contrefactuels&lt;/em&gt;.
+Comme ces résultats contrefactuels ne peuvent être observés, nous devons les estimer.&lt;/p&gt;
+&lt;p&gt;Comment ?
+Eh bien, nous pouvons le faire en nous concentrant sur les individus traités et de contrôle qui sont &lt;em&gt;très proches&lt;/em&gt; du seuil (26 ans).
+En effet, si &lt;em&gt;toutes les autres choses pertinentes&lt;/em&gt; changent vraiment &lt;em&gt;de manière continue&lt;/em&gt; avec l&amp;rsquo;âge, nous pouvons utiliser le résultat moyen de ceux &lt;em&gt;juste en dessous&lt;/em&gt; du seuil (individus de contrôle, à peine plus jeunes que 26 ans) comme le contrefactuel pour ceux &lt;em&gt;juste au-dessus&lt;/em&gt; (individus traités, à peine plus âgés que 26 ans).&lt;br&gt;
+Nous pouvons alors estimer l&amp;rsquo;effet du traitement comme la différence entre les résultats observés pour les individus traités juste au-dessus du seuil et les individus de contrôle juste en dessous, où ce dernier groupe fournit le contrefactuel pour le premier.
+Dans la figure ci-dessus, cette différence dans les résultats observés nous permet d&amp;rsquo;&lt;em&gt;approximer&lt;/em&gt; l&amp;rsquo;effet du traitement pour les individus qui sont &lt;em&gt;juste au seuil&lt;/em&gt; (individus traités qui ont &lt;em&gt;exactement&lt;/em&gt; 26 ans).
+L&amp;rsquo;effet du traitement pour ces 26 ans est la distance verticale entre la ligne verte pleine et la ligne rouge pointillée &lt;em&gt;à la limite&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;effet du traitement pour ces personnes de 26 ans est la distance verticale entre la ligne verte pleine et la ligne rouge pointillée &lt;em&gt;au niveau du seuil&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;limpact-des-prestations-dinvalidité-sur-loffre-de-travail--évidence-du-programme-des-vétérans&#34;&gt;L&amp;rsquo;impact des prestations d&amp;rsquo;invalidité sur l&amp;rsquo;offre de travail : Évidence du programme des vétérans&lt;/h4&gt;
+&lt;p&gt;Les prestations d&amp;rsquo;invalidité visent à soutenir les travailleurs ayant des conditions de santé qui limitent leur capacité à travailler.
+Ces prestations sont censées aider ceux qui, &lt;em&gt;autrement&lt;/em&gt;, seraient incapables de travailler.
+Cependant, elles peuvent également décourager d&amp;rsquo;autres personnes de travailler, même si elles le feraient &lt;em&gt;en l&amp;rsquo;absence de prestations&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Autor et al. (2016) examinent les effets des prestations d&amp;rsquo;invalidité accordées aux vétérans sur leur probabilité de participer au marché du travail et leur nombre moyen d&amp;rsquo;heures de travail.&lt;/p&gt;
+&lt;h5 id=&#34;le-changement-de-politique&#34;&gt;Le changement de politique&lt;/h5&gt;
+&lt;p&gt;Aux États-Unis, il existe deux principaux programmes gouvernementaux soutenant les personnes handicapées : 1) l&amp;rsquo;Assurance Invalidité de la Sécurité Sociale et 2) le Revenu de Sécurité Supplémentaire.
+Les niveaux de prestations de ces programmes sont uniformes au niveau national et dépendent principalement de l&amp;rsquo;historique de revenus des personnes.
+Ces caractéristiques rendent difficile de trouver des groupes comparables pour évaluer les effets de prestations généreuses.
+En effet, les travailleurs ayant des revenus différents dans le passé, et donc ayant droit à des prestations différentes, sont susceptibles d&amp;rsquo;être intrinsèquement différents.&lt;/p&gt;
+&lt;p&gt;En 2001, un changement de politique a fourni une bonne opportunité de recherche pour évaluer les effets des prestations d&amp;rsquo;invalidité.
+Ce changement s&amp;rsquo;appliquait à un troisième programme d&amp;rsquo;invalidité ciblant les vétérans de service militaire.
+En particulier, &lt;em&gt;à partir de 2001&lt;/em&gt;, les vétérans du Vietnam atteints de diabète de type 2 reçoivent une note d&amp;rsquo;invalidité plus élevée, donc des prestations plus élevées, &lt;em&gt;s&amp;rsquo;ils ont servi sur le terrain&lt;/em&gt;.
+Cette &amp;ldquo;expérience naturelle&amp;rdquo; permet à Autor et à ses co-auteurs d&amp;rsquo;évaluer les effets sur l&amp;rsquo;emploi des prestations d&amp;rsquo;invalidité plus généreuses (le traitement).
+En particulier, ils comparent les tendances d&amp;rsquo;emploi au sein de deux groupes de vétérans du Vietnam :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ceux qui ont servi sur le terrain (le groupe traité) et&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ceux qui ne l&amp;rsquo;ont pas fait (le groupe de contrôle).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;les-données&#34;&gt;Les données&lt;/h5&gt;
+&lt;p&gt;Autor et al. (2016) s&amp;rsquo;appuient sur un ensemble de données collectées par le Bureau d&amp;rsquo;Analyse Économique et de Main-d&amp;rsquo;Œuvre de l&amp;rsquo;Armée des États-Unis.
+Cet ensemble de données comprend un quasi-recensement des vétérans ayant servi au Vietnam.
+En outre, il comprend des informations sur les personnes qui ont reçu des prestations d&amp;rsquo;invalidité et sur le montant qu&amp;rsquo;elles ont reçu en septembre de chaque année entre 1998 et 2006.
+Il est important de noter que l&amp;rsquo;ensemble de données comprend également les revenus salariaux et d&amp;rsquo;autres prestations sociales pour chaque année de 1976 à 2007.
+En raison des règles de confidentialité concernant les revenus et les prestations individuels, Autor et al. (2016) utilisent des données &lt;em&gt;groupées&lt;/em&gt;.
+En particulier, ils utilisent des &lt;em&gt;cellules&lt;/em&gt; de cinq à neuf vétérans ayant des caractéristiques similaires (par exemple, statut traité, sexe, éducation, race, score d&amp;rsquo;aptitude et année de naissance).&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;échantillon final est un panel de 1996 à 2007 de près de 3 millions d&amp;rsquo;observations (cellule) $\times$ (année).
+Cet échantillon provient de 1,4 million de vétérans du Vietnam nés entre 1946 et 1951 et ayant commencé leur service entre 1966 et 1971.&lt;/p&gt;
+&lt;p&gt;Les résultats d&amp;rsquo;emploi que les auteurs étudient sont :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;le pourcentage de vétérans dans la population active (pourcentage de vétérans dans une cellule donnée avec des revenus salariaux positifs)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;les revenus salariaux (logarithme des revenus moyens au niveau de la cellule, excluant les cellules où tous les vétérans ont quitté le marché du travail)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;la-méthodologie&#34;&gt;La méthodologie&lt;/h5&gt;
+&lt;p&gt;Autor et ses co-auteurs estiment les effets sur l&amp;rsquo;emploi des prestations d&amp;rsquo;invalidité plus élevées en utilisant une &lt;em&gt;variante&lt;/em&gt; de la méthode des différence de différences.
+La figure ci-dessous prend un programme fictif (traitement) pour illustrer l&amp;rsquo;intuition principale de leur méthodologie.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/autor.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Supposons que nous avons des données sur les résultats d&amp;rsquo;emploi pendant cinq ans, quatre avant le début du programme et un après, comme le montre la figure.
+De plus, imaginons que les données montrent que, &lt;em&gt;avant&lt;/em&gt; le début du traitement, les résultats moyens des groupes traité et de contrôle &lt;em&gt;évoluaient différemment&lt;/em&gt;.
+En effet, la figure ci-dessus montre un &lt;em&gt;écart croissant&lt;/em&gt; entre leurs résultats moyens au cours de la période &lt;em&gt;pré&lt;/em&gt;-traitement.&lt;/p&gt;
+&lt;p&gt;Compte tenu de ces données, devrions-nous utiliser la méthode de différence de différences pour estimer l&amp;rsquo;effet du programme sur l&amp;rsquo;emploi ?
+Non.
+Pour rappel, cette méthode repose sur l&amp;rsquo;hypothèse clé que, &lt;em&gt;en l&amp;rsquo;absence du traitement&lt;/em&gt;, les résultats des groupes traité et de contrôle auraient évolué de la même façon, c&amp;rsquo;est-à-dire qu&amp;rsquo;ils auraient suivi une &lt;em&gt;tendance commune&lt;/em&gt;.&lt;br&gt;
+Néanmoins, la tendance &lt;em&gt;différentielle&lt;/em&gt; observée &lt;em&gt;avant&lt;/em&gt; le programme soulève de sérieux doutes sur la possibilité qu&amp;rsquo;une &lt;em&gt;tendance commune&lt;/em&gt; aurait prévalu &lt;em&gt;après&lt;/em&gt;, si le traitement n&amp;rsquo;avait pas eu lieu.&lt;/p&gt;
+&lt;p&gt;Autor et ses co-auteurs répondent à cette préoccupation en permettant au groupe traité de suivre une tendance différentielle même avant le début du traitement.
+Ils interprètent ensuite toute &lt;em&gt;déviation&lt;/em&gt; de cette tendance différentielle comme l&amp;rsquo;effet du traitement.&lt;/p&gt;
+&lt;h5 id=&#34;les-résultats&#34;&gt;Les résultats&lt;/h5&gt;
+&lt;p&gt;Les résultats de Autor et al. (2016) suggèrent que des prestations d&amp;rsquo;invalidité plus élevées réduisent la participation au marché du travail et le nombre d&amp;rsquo;heures travaillées, validant ainsi les prévisions du modèle néoclassique de travail-loisir.&lt;/p&gt;
+&lt;p&gt;Plus précisément, avant 2001, la &lt;strong&gt;participation au marché du travail&lt;/strong&gt; des vétérans traités avait augmenté à un rythme &lt;em&gt;légèrement plus lent&lt;/em&gt; que celui de leurs pairs de contrôle (-0,15 points de pourcentage par an).
+Néanmoins, après 2001, lorsque les vétérans traités ont commencé à avoir droit à des prestations plus élevées, leur participation au marché du travail a évolué à un rythme &lt;em&gt;bien plus lent&lt;/em&gt; (-0,33 au lieu de -0,15 points de pourcentage par an).
+Cette croissance plus faible après 2001 suggère donc que les prestations d&amp;rsquo;invalidité plus élevées offertes aux vétérans du Vietnam servant sur le terrain ont réduit leur participation au marché du travail de 0,18 point de pourcentage par an.&lt;/p&gt;
+&lt;p&gt;Un schéma similaire se retrouve pour les &lt;strong&gt;revenus salariaux&lt;/strong&gt;.
+En particulier, après 2001, les revenus moyens des vétérans traités ont augmenté à un rythme &lt;em&gt;significativement plus lent&lt;/em&gt; que celui de leurs homologues de contrôle, bien plus lent &lt;em&gt;qu&amp;rsquo;avant&lt;/em&gt; (-0,7 au lieu de -0,2 points log par an).
+Bien que cette réduction des revenus salariaux puisse simplement découler d&amp;rsquo;une participation moindre au marché du travail (&amp;ldquo;marge &lt;em&gt;extensive&lt;/em&gt;&amp;rdquo;), les auteurs montrent qu&amp;rsquo;elle peut également provenir d&amp;rsquo;une réduction du nombre d&amp;rsquo;heures travaillées (&amp;ldquo;marge &lt;em&gt;intensive&lt;/em&gt;&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;Dans une analyse complémentaire, les auteurs montrent qu&amp;rsquo;un point de pourcentage d&amp;rsquo;augmentation de la réception des prestations réduit la fraction de vétérans travaillant de 0,18 point, c&amp;rsquo;est-à-dire qu&amp;rsquo;environ un vétéran quitte le marché du travail pour chaque cinq vétérans nouvellement récompensés de prestations d&amp;rsquo;invalidité.
+De plus, ils estiment également que chaque mille dollars de prestations d&amp;rsquo;invalidité réduit la probabilité qu&amp;rsquo;un vétéran travaille d&amp;rsquo;environ 0,79 point de pourcentage.&lt;/p&gt;
+&lt;p&gt;Dans une analyse complémentaire, les auteurs montrent qu&amp;rsquo;une augmentation d&amp;rsquo;un point de pourcentage du taux de vétérans touchant des prestations d&amp;rsquo;invalidité a réduit la proportion de vétérans travaillant de 0,18 point.
+En d&amp;rsquo;autres termes, environ un vétéran sur cinq ayant récemment obtenu des prestations d&amp;rsquo;invalidité a quitté le marché du travail.&lt;/p&gt;
+&lt;h4 id=&#34;leffet-des-allocations-sociales-sur-lemploi-des-jeunes-en-france&#34;&gt;L&amp;rsquo;effet des allocations sociales sur l&amp;rsquo;emploi des jeunes en France&lt;/h4&gt;
+&lt;p&gt;Comme nous l&amp;rsquo;avons vu en classe, le modèle néoclassique travail-loisir prédit que les programmes d&amp;rsquo;aide sociale typiques créent des désincitations au travail, en particulier pour les travailleurs à bas salaires.
+Deux forces sont en jeu.
+Premièrement, ces programmes comprennent une subvention en espèces qui augmente la demande de loisirs par un effet de revenu.
+Deuxièmement, ils imposent également une &amp;ldquo;taxe&amp;rdquo; sur les revenus du travail qui réduit le coût d&amp;rsquo;opportunité du loisir.
+Ce coût d&amp;rsquo;opportunité plus faible augmente encore la demande de loisirs par un effet de substitution.
+En particulier, les programmes traditionnels de revenu minimum taxent les salaires à un taux de 100 % jusqu&amp;rsquo;à ce que le travailleur ne soit plus éligible à l&amp;rsquo;aide sociale.
+En effet, le gouvernement déduit un euro d&amp;rsquo;allocations sociales pour chaque euro gagné sur le marché du travail.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est le type de programme d&amp;rsquo;aide sociale qui était disponible en France avant 2009, appelé &lt;em&gt;&amp;ldquo;Revenu Minimum d&amp;rsquo;Insertion&amp;rdquo;&lt;/em&gt; (RMI).
+Ce programme taxait essentiellement les salaires à un taux de 100 % ; réduisant ainsi probablement la participation au marché du travail, en particulier chez les travailleurs à bas salaires (comme les jeunes ayant abandonné leurs études).
+Pour remédier à ces désincitations au travail, le gouvernement français a introduit en 2009 un nouveau programme d&amp;rsquo;aide sociale, appelé &lt;em&gt;&amp;ldquo;Revenu de Solidarité Active&amp;rdquo;&lt;/em&gt; (RSA).
+Ce nouveau programme taxe les salaires à un taux de 38 % plutôt que de 100 %, augmentant ainsi probablement la participation au marché du travail par un effet de substitution (il a de nouveau rendu le loisir coûteux !).&lt;/p&gt;
+&lt;p&gt;Bargain et Doorly (2018) examinent les effets de ces deux programmes d&amp;rsquo;aide sociale sur le taux d&amp;rsquo;emploi, en particulier chez les jeunes ayant abandonné l&amp;rsquo;école secondaire.&lt;/p&gt;
+&lt;h5 id=&#34;la-politique&#34;&gt;La politique&lt;/h5&gt;
+&lt;p&gt;Jusqu&amp;rsquo;en 2009, le RMI jouait le rôle de prestation de dernier recours pour ceux qui n&amp;rsquo;étaient pas éligibles ou avaient épuisé d&amp;rsquo;autres prestations sociales.
+Pour être éligibles au RMI, les individus devaient avoir &lt;em&gt;au moins 25 ans&lt;/em&gt; (ou moins, avec un enfant à charge) et ne pas être inscrits à l&amp;rsquo;école.
+De plus, ils devaient signer un &amp;ldquo;contrat d&amp;rsquo;intégration&amp;rdquo;.
+Cependant, dans la pratique, il n&amp;rsquo;y avait pas d&amp;rsquo;obligation réelle de chercher activement un emploi ou de suivre une formation.&lt;/p&gt;
+&lt;p&gt;Le RMI pouvait être réclamé indéfiniment et était souvent complété par des subventions au logement.
+Pour les personnes sans emploi, le revenu total non salarial provenant du RMI et des subventions au logement pouvait être 150 % plus élevé si elles avaient &lt;em&gt;25 ans plutôt que 24 ans&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cette allocation généreuse, associée à une taxe de 100 % sur les revenus du travail, décourageait probablement les personnes de 25 ans ou plus de travailler.&lt;/p&gt;
+&lt;p&gt;Après 2009, le RSA a remplacé le RMI, réduisant la taxe sur les revenus salariaux de 100 à 38 %, tout en maintenant les mêmes conditions d&amp;rsquo;âge et la durée illimitée des allocations.&lt;/p&gt;
+&lt;h5 id=&#34;les-données-1&#34;&gt;Les données&lt;/h5&gt;
+&lt;p&gt;Bargain et Doorly (2018) s&amp;rsquo;appuient sur les données du recensement français pour les années 1999 et 2004-2011.
+Ces données contiennent des informations sur l&amp;rsquo;âge, l&amp;rsquo;emploi, le type de contrat, la durée de travail, le statut marital et le type de ménage.
+L&amp;rsquo;échantillon d&amp;rsquo;analyse comprend des travailleurs potentiels âgés de 20 à 30 ans qui sont &lt;em&gt;célibataires et n&amp;rsquo;ont pas d&amp;rsquo;enfants&lt;/em&gt;.
+Ces individus n&amp;rsquo;étaient éligibles au RMI que s&amp;rsquo;ils avaient au moins 25 ans.&lt;/p&gt;
+&lt;h5 id=&#34;la-méthodologie-1&#34;&gt;La méthodologie&lt;/h5&gt;
+&lt;p&gt;Cette limite d&amp;rsquo;âge de 25 ans crée une discontinuité pour estimer l&amp;rsquo;effet du RMI sur l&amp;rsquo;emploi.
+En particulier, Bargain et Doorly comparent les taux d&amp;rsquo;emploi de ceux &lt;em&gt;juste&lt;/em&gt; au-dessus et &lt;em&gt;juste&lt;/em&gt; en-dessous de 25 ans.
+Bien que ceux de plus et moins de 25 ans puissent différer sur de nombreux aspects pertinents, ceux juste au-dessus et en-dessous de cette limite d&amp;rsquo;âge sont probablement comparables.
+Si tel est le cas, nous pouvons interpréter tout saut dans leur taux d&amp;rsquo;emploi au niveau du seuil comme l&amp;rsquo;effet du RMI.
+Plus précisément, si le taux d&amp;rsquo;emploi changeait de manière continue autour du seuil &lt;em&gt;en l&amp;rsquo;absence du traitement&lt;/em&gt;, tout saut observé dans l&amp;rsquo;emploi à ce seuil refléterait l&amp;rsquo;effet du traitement.&lt;/p&gt;
+&lt;p&gt;Bien que le RSA ait maintenu le seuil d&amp;rsquo;éligibilité à 25 ans, il a augmenté le rendement du travail en réduisant le taux d&amp;rsquo;imposition des revenus salariaux.
+Bargain et Doorley ont donc refait l&amp;rsquo;analyse précédente en utilisant les données de 2010-2011, lorsque le RSA était en place.&lt;/p&gt;
+&lt;h5 id=&#34;les-résultats-1&#34;&gt;Les résultats&lt;/h5&gt;
+&lt;p&gt;Les résultats de Bargain et Doorly (2018) confirment les prédictions théoriques du modèle travail-loisir.&lt;/p&gt;
+&lt;p&gt;En particulier, ils suggèrent que le RMI a réduit le taux d&amp;rsquo;emploi pour ceux de plus de 25 ans, notamment parmi les individus à bas salaires.
+En effet, les résultats indiquent que ceux &lt;em&gt;juste&lt;/em&gt; au-dessus de 25 ans (donc éligibles au RMI) étaient 1,6 point de pourcentage moins susceptibles d&amp;rsquo;être employés que ceux &lt;em&gt;juste&lt;/em&gt; en-dessous de 25 ans (non éligibles au RMI).
+De plus, cet effet de traitement sur la probabilité d&amp;rsquo;être employé était beaucoup plus fort pour les décrocheurs du secondaire (-3,9 contre -1,6 points de pourcentage).
+La figure suivante, tirée de l&amp;rsquo;étude, illustre ces effets de traitement du RMI.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/rd_rmi.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;En outre, Bargain et Doorly (2018) suggèrent également que le RSA a contribué à restaurer les incitations au travail parmi les travailleurs pauvres en imposant leurs revenus salariaux au taux de 38 % au lieu de 100 %.
+Plus précisément, les auteurs montre que le RSA a réduit la probabilité d&amp;rsquo;emploi de ceux &lt;em&gt;juste&lt;/em&gt; au-dessus de 25 ans d&amp;rsquo;environ 0,8 point de pourcentage, soit environ 3 points de pourcentage &lt;em&gt;moins&lt;/em&gt; que le RMI.
+La figure ci-dessous illustre cet effet de traitement du RSA.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/rd_rsa_2009.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Enfin, les auteurs simulent les effets sur l&amp;rsquo;emploi d&amp;rsquo;une réforme changeant les règles d&amp;rsquo;éligibilité du RSA.
+En particulier, depuis 2016, les jeunes &lt;em&gt;de moins&lt;/em&gt; de 25 ans sont également éligibles au RSA, mais seulement s&amp;rsquo;ils travaillent (et gagnent moins qu&amp;rsquo;un certain seuil).
+Comme pour leurs homologues plus âgés, leurs revenus du travail sont taxés à un taux de 38 %.
+La simulation des auteurs indique que cette prestation &lt;em&gt;en emploi&lt;/em&gt; offerte aux moins de 25 ans augmente leur probabilité de travailler.
+La figure suivante montre cet effet de traitement simulé pour la réforme de 2016 du RSA.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/rd_rsa_2016.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
