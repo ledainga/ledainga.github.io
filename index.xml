@@ -17,7 +17,7 @@
       <link>https://leda-inga.github.io/courses/protection_sociale/rappel/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://leda-inga.github.io/courses/protection_sociale/rappel/</guid>
-      <description>&lt;h2 id=&#34;rappel--quelques-concepts-de-base&#34;&gt;Rappel : Quelques concepts de base&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;quelques-concepts-de-base&#34;&gt;Quelques concepts de base&lt;/h2&gt;
 &lt;p&gt;Le &amp;ldquo;mode de pensée économique&amp;rdquo; repose sur deux hypothèses de base concernant le comportement des individus et des entreprises.&lt;/p&gt;
 &lt;h3 id=&#34;hypothèses-clés&#34;&gt;Hypothèses clés&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;La rareté&lt;/strong&gt;&lt;/p&gt;
@@ -707,50 +707,50 @@ Elle reçoit également 320 € d&amp;rsquo;allocations chaque semaine, indépen
     </item>
     
     <item>
-      <title>Allocations Chômage</title>
-      <link>https://leda-inga.github.io/courses/protection_sociale/assurance-chomage/</link>
+      <title>Application des politiques I</title>
+      <link>https://leda-inga.github.io/courses/protection_sociale/allocation-chomage/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://leda-inga.github.io/courses/protection_sociale/assurance-chomage/</guid>
-      <description>&lt;h2 id=&#34;application-des-politiques-i--les-allocations-chômage&#34;&gt;Application des Politiques I : Les allocations chômage&lt;/h2&gt;
-&lt;p&gt;L&amp;rsquo;assurance chômage vise à protéger les travailleurs contre la perte de revenus.
+      <guid>https://leda-inga.github.io/courses/protection_sociale/allocation-chomage/</guid>
+      <description>&lt;h2 id=&#34;lallocation-chômage&#34;&gt;L&amp;rsquo;allocation chômage&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;allocation chômage vise à protéger les travailleurs contre la perte de revenus.
 Néanmoins, ce soutien au revenu &lt;em&gt;peut&lt;/em&gt; les décourager de reprendre le travail.
-Pour faire face à ces potentiels effets dissuasifs sur le travail, l&amp;rsquo;assurance chômage est généralement accordée sous les contraintes suivantes.&lt;/p&gt;
+Pour faire face à ces potentiels effets dissuasifs sur le travail, l&amp;rsquo;allocation chômage est généralement accordée sous les conditions suivantes.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Critères d&amp;rsquo;admissibilité&lt;/strong&gt; : Pour être éligible à l&amp;rsquo;assurance chômage, vous devez avoir été licencié par votre employeur et avoir travaillé pendant une durée minimale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Critères d&amp;rsquo;admissibilité&lt;/strong&gt; : Pour y être éligible, vous devez avoir été licencié par votre employeur et avoir travaillé pendant une durée minimale.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Générosité des prestations&lt;/strong&gt; : La générosité de l&amp;rsquo;assurance chômage s&amp;rsquo;articule autour de deux dimensions :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Générosité&lt;/strong&gt; :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;Niveau des prestations&lt;/em&gt; : L&amp;rsquo;assurance chômage remplace généralement un pourcentage fixe de vos revenus précédents, bien que ce pourcentage puisse diminuer progressivement au fil du temps.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Niveau&lt;/em&gt; : L&amp;rsquo;allocation chômage remplace généralement un pourcentage fixe de vos revenus précédents, bien que ce pourcentage puisse diminuer progressivement au fil du temps.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;Durée&lt;/em&gt; : L&amp;rsquo;assurance chômage est souvent limitée dans le temps.
+&lt;p&gt;&lt;em&gt;Durée&lt;/em&gt; : L&amp;rsquo;allocation est souvent limitée dans le temps.
 Elle est versée pour des périodes plus longues à ceux qui ont travaillé plus longtemps dans le passé (qui ont de plus longues périodes de cotisations) et à ceux qui sont plus âgés.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Conditionnalité des prestations&lt;/strong&gt; : Les bénéficiaires de l&amp;rsquo;assurance chômage sont souvent tenus de remplir un ensemble de conditions pour conserver leur droit aux prestations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conditionnalité&lt;/strong&gt; : Les bénéficiaires sont souvent tenus de remplir un ensemble de conditions pour conserver leur droit à l&amp;rsquo;allocation.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Par exemple, vous pouvez être tenu de justifier tout refus d&amp;rsquo;emploi et de participer à des programmes de formation et à des entretiens de conseil.
 De plus, vous pouvez également devoir prouver que vous recherchez activement un emploi.&lt;/p&gt;
-&lt;p&gt;Nous allons maintenant explorer pourquoi l&amp;rsquo;assurance chômage &lt;em&gt;peut&lt;/em&gt; réduire les incitations au travail et comment les contraintes mentionnées ci-dessus pourraient être justifiées.
+&lt;p&gt;Nous allons maintenant explorer pourquoi l&amp;rsquo;allocation chômage &lt;em&gt;peut&lt;/em&gt; réduire les incitations au travail et comment les conditions mentionnées ci-dessus pourraient être justifiées.
 Nous commencerons par utiliser le &lt;strong&gt;modèle néoclassique travail-loisir&lt;/strong&gt; que nous avons vu dans le chapitre précédent.
 Ensuite, nous utiliserons la &lt;strong&gt;théorie de la recherche d&amp;rsquo;emploi&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h4 id=&#34;pourquoi-encore-une-autre-théorie-pour-comprendre-comment-lassurance-chômage-modifie-les-incitations-au-travail-&#34;&gt;Pourquoi encore une autre théorie pour comprendre comment l&amp;rsquo;assurance chômage modifie les incitations au travail ?&lt;/h4&gt;
+&lt;h4 id=&#34;pourquoi-encore-une-autre-théorie-pour-comprendre-comment-lallocation-chômage-modifie-les-incitations-au-travail-&#34;&gt;Pourquoi encore une autre théorie pour comprendre comment l&amp;rsquo;allocation chômage modifie les incitations au travail ?&lt;/h4&gt;
 &lt;p&gt;Le modèle néoclassique travail-loisir suppose implicitement qu&amp;rsquo;un individu peut trouver un emploi &lt;em&gt;immédiatement&lt;/em&gt; s&amp;rsquo;il choisit d&amp;rsquo;entrer sur le marché du travail.
 Dans ce modèle, l&amp;rsquo;individu doit simplement choisir entre entrer dans la population active ou rester en dehors.
 Choisir d&amp;rsquo;entrer signifie être employé, tandis que rester en dehors signifie ne pas avoir d&amp;rsquo;emploi &lt;em&gt;ni en chercher un&lt;/em&gt; (malgré la capacité de travailler).&lt;/p&gt;
 &lt;p&gt;Le modèle exclut donc l&amp;rsquo;existence du chômage.
-Par conséquent, discuter de l&amp;rsquo;assurance &lt;em&gt;chômage&lt;/em&gt; dans ce cadre néoclassique pourrait sembler incohérent.
-Pourtant, malgré cette limitation, ce cadre peut nous donner une première idée des effets de l&amp;rsquo;assurance chômage sur les incitations des gens à travailler.&lt;/p&gt;
+Par conséquent, discuter de l&amp;rsquo;allocation &lt;em&gt;chômage&lt;/em&gt; dans ce cadre néoclassique pourrait sembler incohérent.
+Pourtant, malgré cette limitation, ce cadre peut nous donner une première idée des effets de cette allocation sur les incitations des gens à travailler.&lt;/p&gt;
 &lt;p&gt;Plus tard, nous introduirons la théorie de la recherche d&amp;rsquo;emploi, qui repose sur l&amp;rsquo;hypothèse plus réaliste que la recherche d&amp;rsquo;un emploi prend du temps et des efforts.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&#34;lassurance-chômage-et-la-décision-de-travailler--le-modèle-néoclassique-travail-loisir&#34;&gt;L&amp;rsquo;assurance chômage et la décision de travailler : Le modèle néoclassique travail-loisir&lt;/h3&gt;
+&lt;h3 id=&#34;lallocation-chômage-et-la-décision-de-travailler--le-modèle-néoclassique-travail-loisir&#34;&gt;L&amp;rsquo;allocation chômage et la décision de travailler : Le modèle néoclassique travail-loisir&lt;/h3&gt;
 &lt;p&gt;Comme dans le chapitre précédent, nous supposons toujours ce qui suit :&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -826,12 +826,12 @@ Le revenu non salarial serait alors égal à $V+b$.&lt;/p&gt;
 Néanmoins, une fois qu&amp;rsquo;il entre sur le marché du travail, sa contrainte budgétaire revient à celle d&amp;rsquo;origine.&lt;/p&gt;
 &lt;p&gt;Ce type d&amp;rsquo;allocations peut conduire certaines personnes à quitter la population active.
 Comme illustré dans la figure, l&amp;rsquo;individu est en effet mieux loti en ne travaillant pas et en réclamant des allocations qu&amp;rsquo;en travaillant pour un salaire $w$ (comme il le faisait auparavant).&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;assurance chômage augmente le salaire de réserve de l&amp;rsquo;individu en améliorant son point de dotation.
+&lt;p&gt;L&amp;rsquo;allocation chômage augmente le salaire de réserve de l&amp;rsquo;individu en améliorant son point de dotation.
 Son nouveau salaire de réserve $w^{r}_{1}$ est plus élevé que celui qu&amp;rsquo;il avait initialement, $w^{r}_{0}$, lorsqu&amp;rsquo;aucune allocation ne lui était offerte.&lt;/p&gt;
 &lt;p&gt;Cette augmentation du salaire de réserve réduit donc la probabilité que les travailleurs &lt;em&gt;à bas salaires&lt;/em&gt; choisissent de reprendre le travail.
 Il est important de noter que nous pouvons faire cette prédiction sans aucune hypothèse sur les préférences des travailleurs à bas salaires.
 Nous ne disons pas vraiment qu&amp;rsquo;ils arrêteront de travailler parce que le loisir a beaucoup plus de valeur pour eux.
-Nous disons simplement que, étant donné leur rendement du travail plus faible (salaire plus bas), ils peuvent se trouver mieux lotis en s&amp;rsquo;appuyant sur l&amp;rsquo;assurance chômage plutôt qu&amp;rsquo;en restant sur le marché du travail.&lt;/p&gt;
+Nous disons simplement que, étant donné leur rendement du travail plus faible (salaire plus bas), ils peuvent se trouver mieux lotis en s&amp;rsquo;appuyant sur l&amp;rsquo;allocation chômage plutôt qu&amp;rsquo;en restant sur le marché du travail.&lt;/p&gt;
 &lt;p&gt;Pour fixer les idées, il peut être utile de refaire notre analyse précédente mais avec un changement mineur.
 Supposons que l&amp;rsquo;allocation de chômage offerte à l&amp;rsquo;individu &lt;em&gt;est égale à son revenu du travail précédent&lt;/em&gt;.
 Ce niveau de prestation lui permet essentiellement de consommer autant qu&amp;rsquo;avant &lt;em&gt;mais sans avoir besoin de travailler&lt;/em&gt;, ce qui augmente forcément son niveau d&amp;rsquo;utilité.&lt;/p&gt;
@@ -865,14 +865,14 @@ En effet, une telle prestation l&amp;rsquo;assurerait presque entièrement contr
 Cependant, cette allocation maintiendrait toujours son incitation à reprendre le travail : travailler lui permettrait d&amp;rsquo;atteindre son utilité initiale $U^{*}_{0}$, alors que ne pas travailler et recevoir une allocation &lt;em&gt;juste en dessous&lt;/em&gt; de $b^{\prime}$ ne le permettrait &lt;em&gt;pas&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;En pratique, cependant, déterminer la valeur de $b^{\prime}$ est un défi.
 Les travailleurs ont des préférences différentes, ce qui signifie que l&amp;rsquo;allocation optimale pour maintenir les incitations au travail varie.
-Les décideurs politiques doivent donc se contenter de fixer l&amp;rsquo;assurance chômage comme une fraction des revenus précédents et de la lier à des exigences de recherche d&amp;rsquo;emploi et autres, qui sont souvent difficiles à mettre en œuvre.&lt;/p&gt;
+Les décideurs politiques doivent donc se contenter de fixer l&amp;rsquo;allocation chômage comme une fraction des revenus précédents et de la lier à des exigences de recherche d&amp;rsquo;emploi et autres, qui sont souvent difficiles à mettre en œuvre.&lt;/p&gt;
 &lt;h4 id=&#34;autres-programmes-sociaux--allocations-sociales-permettant-de-travailler&#34;&gt;Autres programmes sociaux : Allocations sociales permettant de travailler&lt;/h4&gt;
 &lt;p&gt;Les allocations de chômage sont un type d&amp;rsquo;allocations sociales offertes &lt;em&gt;à condition de ne pas être employé&lt;/em&gt;.
-Ces allocations &lt;em&gt;sans travail&lt;/em&gt; peuvent être reçues en raison d&amp;rsquo;un licenciement (comme dans le cas de l&amp;rsquo;assurance chômage), d&amp;rsquo;une blessure temporaire au travail ou d&amp;rsquo;une invalidité permanente.
+Ces allocations &lt;em&gt;sans travail&lt;/em&gt; peuvent être reçues en raison d&amp;rsquo;un licenciement (comme dans le cas de l&amp;rsquo;allocation chômage), d&amp;rsquo;une blessure temporaire au travail ou d&amp;rsquo;une invalidité permanente.
 Elles peuvent également être reçues en cas de pauvreté, telle que définie par un seuil de revenu minimum fixé par le gouvernement.&lt;/p&gt;
 &lt;p&gt;Quelle que soit la raison pour avoir droit à ces allocations, elles augmentent toutes le salaire de réserve de leurs bénéficiaires et diminuent donc la probabilité qu&amp;rsquo;ils (ré)intègrent le marché du travail (en particulier s&amp;rsquo;ils occupent des emplois à bas salaires).
 Mais que se passerait-il si les personnes pouvaient encore se qualifier pour ces prestations, au moins partiellement, même si elles reprenaient le travail ?&lt;/p&gt;
-&lt;p&gt;Bien que cette allocation ne serait plus qualifié d&amp;rsquo;assurance &lt;em&gt;chômage&lt;/em&gt;, il est toujours instructif d&amp;rsquo;examiner comment elle pourrait affecter les incitations au travail.
+&lt;p&gt;Bien que cette allocation ne serait plus qualifié d&amp;rsquo;allocation &lt;em&gt;chômage&lt;/em&gt;, il est toujours instructif d&amp;rsquo;examiner comment elle pourrait affecter les incitations au travail.
 Considérons deux cas :&lt;/p&gt;
 &lt;p&gt;a) Le travailleur perd &lt;em&gt;50 centimes&lt;/em&gt; des allocations $b$ pour chaque euro gagné sur le marché du travail, et&lt;/p&gt;
 &lt;p&gt;b) Le travailleur perd &lt;em&gt;un euro&lt;/em&gt; des allocations $b$ pour chaque euro gagné, mais seulement tant que son revenu est inférieur à un certain seuil.&lt;/p&gt;
@@ -996,7 +996,7 @@ Les figures suivantes illustrent le rôle de ces dernières dans le cadre des al
 Ces travailleurs ne diffèrent que par leurs préférences et non par les contraintes budgétaires auxquelles ils font face avec et sans allocations.
 Comme le montre la figure, les travailleurs ayant une faible préférence pour le loisir peuvent ne pas changer du tout leur décision de travailler, même si on leur offre des allocations $b$.
 En effet, le travailleur représenté sur la deuxième figure maximise son utilité en travaillant $T-L^{*}_{1}$ heures, &lt;em&gt;au lieu de&lt;/em&gt; demander l&amp;rsquo;aide sociale.&lt;/p&gt;
-&lt;h3 id=&#34;les-allocations-de-chômage-et-la-décision-de-chercher-du-travail--un-modèle-de-recherche-demploi&#34;&gt;Les allocations de chômage et la décision de chercher du travail : Un modèle de recherche d&amp;rsquo;emploi&lt;/h3&gt;
+&lt;h3 id=&#34;lallocation-chômage-et-la-décision-de-chercher-du-travail--un-modèle-de-recherche-demploi&#34;&gt;L&amp;rsquo;allocation chômage et la décision de chercher du travail : Un modèle de recherche d&amp;rsquo;emploi&lt;/h3&gt;
 &lt;p&gt;Le modèle néoclassique travail-loisir que nous avons vu précédemment suppose que les individus peuvent trouver un emploi &lt;em&gt;immédiatement&lt;/em&gt; s&amp;rsquo;ils choisissent de travailler.
 Ce modèle nous aide donc à comprendre les effets des allocations sociales sur la décision des individus de rejoindre la population active, mais pas sur leur décision de continuer à chercher du travail, et donc de &lt;em&gt;rester au chômage&lt;/em&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1225,11 +1225,11 @@ L&amp;rsquo;individu acceptera-t-il une offre d&amp;rsquo;emploi de 15 euros ?&l
     </item>
     
     <item>
-      <title>Analyse Empirique</title>
+      <title>Analyse empirique</title>
       <link>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</guid>
-      <description>&lt;h3 id=&#34;analyse-empirique&#34;&gt;Analyse Empirique&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;analyse-empirique&#34;&gt;Analyse empirique&lt;/h2&gt;
 &lt;p&gt;Dans cette section, nous discuterons de deux articles étudiant les effets des prestations sociales sur l&amp;rsquo;emploi.&lt;/p&gt;
 &lt;p&gt;Les questions de recherche que nous aimerions résoudre sont :&lt;/p&gt;
 &lt;ul&gt;
@@ -1351,12 +1351,12 @@ Nous pouvons alors estimer l&amp;rsquo;effet du traitement comme la différence 
 Dans la figure ci-dessus, cette différence dans les résultats observés nous permet d&amp;rsquo;&lt;em&gt;approximer&lt;/em&gt; l&amp;rsquo;effet du traitement pour les individus qui sont &lt;em&gt;juste au seuil&lt;/em&gt; (individus traités qui ont &lt;em&gt;exactement&lt;/em&gt; 26 ans).
 L&amp;rsquo;effet du traitement pour ces 26 ans est la distance verticale entre la ligne verte pleine et la ligne rouge pointillée &lt;em&gt;à la limite&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;effet du traitement pour ces personnes de 26 ans est la distance verticale entre la ligne verte pleine et la ligne rouge pointillée &lt;em&gt;au niveau du seuil&lt;/em&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;limpact-des-prestations-dinvalidité-sur-loffre-de-travail--évidence-du-programme-des-vétérans&#34;&gt;L&amp;rsquo;impact des prestations d&amp;rsquo;invalidité sur l&amp;rsquo;offre de travail : Évidence du programme des vétérans&lt;/h4&gt;
+&lt;h3 id=&#34;limpact-des-prestations-dinvalidité-sur-loffre-de-travail--évidence-du-programme-des-vétérans&#34;&gt;L&amp;rsquo;impact des prestations d&amp;rsquo;invalidité sur l&amp;rsquo;offre de travail : Évidence du programme des vétérans&lt;/h3&gt;
 &lt;p&gt;Les prestations d&amp;rsquo;invalidité visent à soutenir les travailleurs ayant des conditions de santé qui limitent leur capacité à travailler.
 Ces prestations sont censées aider ceux qui, &lt;em&gt;autrement&lt;/em&gt;, seraient incapables de travailler.
 Cependant, elles peuvent également décourager d&amp;rsquo;autres personnes de travailler, même si elles le feraient &lt;em&gt;en l&amp;rsquo;absence de prestations&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Autor et al. (2016) examinent les effets des prestations d&amp;rsquo;invalidité accordées aux vétérans sur leur probabilité de participer au marché du travail et leur nombre moyen d&amp;rsquo;heures de travail.&lt;/p&gt;
-&lt;h5 id=&#34;le-changement-de-politique&#34;&gt;Le changement de politique&lt;/h5&gt;
+&lt;h4 id=&#34;le-changement-de-politique&#34;&gt;Le changement de politique&lt;/h4&gt;
 &lt;p&gt;Aux États-Unis, il existe deux principaux programmes gouvernementaux soutenant les personnes handicapées : 1) l&amp;rsquo;Assurance Invalidité de la Sécurité Sociale et 2) le Revenu de Sécurité Supplémentaire.
 Les niveaux de prestations de ces programmes sont uniformes au niveau national et dépendent principalement de l&amp;rsquo;historique de revenus des personnes.
 Ces caractéristiques rendent difficile de trouver des groupes comparables pour évaluer les effets de prestations généreuses.
@@ -1374,7 +1374,7 @@ En particulier, ils comparent les tendances d&amp;rsquo;emploi au sein de deux g
 &lt;p&gt;ceux qui ne l&amp;rsquo;ont pas fait (le groupe de contrôle).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;les-données&#34;&gt;Les données&lt;/h5&gt;
+&lt;h4 id=&#34;les-données&#34;&gt;Les données&lt;/h4&gt;
 &lt;p&gt;Autor et al. (2016) s&amp;rsquo;appuient sur un ensemble de données collectées par le Bureau d&amp;rsquo;Analyse Économique et de Main-d&amp;rsquo;Œuvre de l&amp;rsquo;Armée des États-Unis.
 Cet ensemble de données comprend un quasi-recensement des vétérans ayant servi au Vietnam.
 En outre, il comprend des informations sur les personnes qui ont reçu des prestations d&amp;rsquo;invalidité et sur le montant qu&amp;rsquo;elles ont reçu en septembre de chaque année entre 1998 et 2006.
@@ -1392,7 +1392,7 @@ Cet échantillon provient de 1,4 million de vétérans du Vietnam nés entre 194
 &lt;p&gt;les revenus salariaux (logarithme des revenus moyens au niveau de la cellule, excluant les cellules où tous les vétérans ont quitté le marché du travail)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;la-méthodologie&#34;&gt;La méthodologie&lt;/h5&gt;
+&lt;h4 id=&#34;la-méthodologie&#34;&gt;La méthodologie&lt;/h4&gt;
 &lt;p&gt;Autor et ses co-auteurs estiment les effets sur l&amp;rsquo;emploi des prestations d&amp;rsquo;invalidité plus élevées en utilisant une &lt;em&gt;variante&lt;/em&gt; de la méthode des différence de différences.
 La figure ci-dessous prend un programme fictif (traitement) pour illustrer l&amp;rsquo;intuition principale de leur méthodologie.&lt;/p&gt;
 &lt;p&gt;
@@ -1425,7 +1425,7 @@ Pour rappel, cette méthode repose sur l&amp;rsquo;hypothèse clé que, &lt;em&g
 Néanmoins, la tendance &lt;em&gt;différentielle&lt;/em&gt; observée &lt;em&gt;avant&lt;/em&gt; le programme soulève de sérieux doutes sur la possibilité qu&amp;rsquo;une &lt;em&gt;tendance commune&lt;/em&gt; aurait prévalu &lt;em&gt;après&lt;/em&gt;, si le traitement n&amp;rsquo;avait pas eu lieu.&lt;/p&gt;
 &lt;p&gt;Autor et ses co-auteurs répondent à cette préoccupation en permettant au groupe traité de suivre une tendance différentielle même avant le début du traitement.
 Ils interprètent ensuite toute &lt;em&gt;déviation&lt;/em&gt; de cette tendance différentielle comme l&amp;rsquo;effet du traitement.&lt;/p&gt;
-&lt;h5 id=&#34;les-résultats&#34;&gt;Les résultats&lt;/h5&gt;
+&lt;h4 id=&#34;les-résultats&#34;&gt;Les résultats&lt;/h4&gt;
 &lt;p&gt;Les résultats de Autor et al. (2016) suggèrent que des prestations d&amp;rsquo;invalidité plus élevées réduisent la participation au marché du travail et le nombre d&amp;rsquo;heures travaillées, validant ainsi les prévisions du modèle néoclassique de travail-loisir.&lt;/p&gt;
 &lt;p&gt;Plus précisément, avant 2001, la &lt;strong&gt;participation au marché du travail&lt;/strong&gt; des vétérans traités avait augmenté à un rythme &lt;em&gt;légèrement plus lent&lt;/em&gt; que celui de leurs pairs de contrôle (-0,15 points de pourcentage par an).
 Néanmoins, après 2001, lorsque les vétérans traités ont commencé à avoir droit à des prestations plus élevées, leur participation au marché du travail a évolué à un rythme &lt;em&gt;bien plus lent&lt;/em&gt; (-0,33 au lieu de -0,15 points de pourcentage par an).
@@ -1437,7 +1437,7 @@ Bien que cette réduction des revenus salariaux puisse simplement découler d&am
 De plus, ils estiment également que chaque mille dollars de prestations d&amp;rsquo;invalidité réduit la probabilité qu&amp;rsquo;un vétéran travaille d&amp;rsquo;environ 0,79 point de pourcentage.&lt;/p&gt;
 &lt;p&gt;Dans une analyse complémentaire, les auteurs montrent qu&amp;rsquo;une augmentation d&amp;rsquo;un point de pourcentage du taux de vétérans touchant des prestations d&amp;rsquo;invalidité a réduit la proportion de vétérans travaillant de 0,18 point.
 En d&amp;rsquo;autres termes, environ un vétéran sur cinq ayant récemment obtenu des prestations d&amp;rsquo;invalidité a quitté le marché du travail.&lt;/p&gt;
-&lt;h4 id=&#34;leffet-des-allocations-sociales-sur-lemploi-des-jeunes-en-france&#34;&gt;L&amp;rsquo;effet des allocations sociales sur l&amp;rsquo;emploi des jeunes en France&lt;/h4&gt;
+&lt;h3 id=&#34;leffet-des-allocations-sociales-sur-lemploi-des-jeunes-en-france&#34;&gt;L&amp;rsquo;effet des allocations sociales sur l&amp;rsquo;emploi des jeunes en France&lt;/h3&gt;
 &lt;p&gt;Comme nous l&amp;rsquo;avons vu en classe, le modèle néoclassique travail-loisir prédit que les programmes d&amp;rsquo;aide sociale typiques créent des désincitations au travail, en particulier pour les travailleurs à bas salaires.
 Deux forces sont en jeu.
 Premièrement, ces programmes comprennent une subvention en espèces qui augmente la demande de loisirs par un effet de revenu.
@@ -1450,7 +1450,7 @@ Ce programme taxait essentiellement les salaires à un taux de 100 % ; réduisan
 Pour remédier à ces désincitations au travail, le gouvernement français a introduit en 2009 un nouveau programme d&amp;rsquo;aide sociale, appelé &lt;em&gt;&amp;ldquo;Revenu de Solidarité Active&amp;rdquo;&lt;/em&gt; (RSA).
 Ce nouveau programme taxe les salaires à un taux de 38 % plutôt que de 100 %, augmentant ainsi probablement la participation au marché du travail par un effet de substitution (il a de nouveau rendu le loisir coûteux !).&lt;/p&gt;
 &lt;p&gt;Bargain et Doorly (2018) examinent les effets de ces deux programmes d&amp;rsquo;aide sociale sur le taux d&amp;rsquo;emploi, en particulier chez les jeunes ayant abandonné l&amp;rsquo;école secondaire.&lt;/p&gt;
-&lt;h5 id=&#34;la-politique&#34;&gt;La politique&lt;/h5&gt;
+&lt;h4 id=&#34;la-politique&#34;&gt;La politique&lt;/h4&gt;
 &lt;p&gt;Jusqu&amp;rsquo;en 2009, le RMI jouait le rôle de prestation de dernier recours pour ceux qui n&amp;rsquo;étaient pas éligibles ou avaient épuisé d&amp;rsquo;autres prestations sociales.
 Pour être éligibles au RMI, les individus devaient avoir &lt;em&gt;au moins 25 ans&lt;/em&gt; (ou moins, avec un enfant à charge) et ne pas être inscrits à l&amp;rsquo;école.
 De plus, ils devaient signer un &amp;ldquo;contrat d&amp;rsquo;intégration&amp;rdquo;.
@@ -1459,12 +1459,12 @@ Cependant, dans la pratique, il n&amp;rsquo;y avait pas d&amp;rsquo;obligation r
 Pour les personnes sans emploi, le revenu total non salarial provenant du RMI et des subventions au logement pouvait être 150 % plus élevé si elles avaient &lt;em&gt;25 ans plutôt que 24 ans&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Cette allocation généreuse, associée à une taxe de 100 % sur les revenus du travail, décourageait probablement les personnes de 25 ans ou plus de travailler.&lt;/p&gt;
 &lt;p&gt;Après 2009, le RSA a remplacé le RMI, réduisant la taxe sur les revenus salariaux de 100 à 38 %, tout en maintenant les mêmes conditions d&amp;rsquo;âge et la durée illimitée des allocations.&lt;/p&gt;
-&lt;h5 id=&#34;les-données-1&#34;&gt;Les données&lt;/h5&gt;
+&lt;h4 id=&#34;les-données-1&#34;&gt;Les données&lt;/h4&gt;
 &lt;p&gt;Bargain et Doorly (2018) s&amp;rsquo;appuient sur les données du recensement français pour les années 1999 et 2004-2011.
 Ces données contiennent des informations sur l&amp;rsquo;âge, l&amp;rsquo;emploi, le type de contrat, la durée de travail, le statut marital et le type de ménage.
 L&amp;rsquo;échantillon d&amp;rsquo;analyse comprend des travailleurs potentiels âgés de 20 à 30 ans qui sont &lt;em&gt;célibataires et n&amp;rsquo;ont pas d&amp;rsquo;enfants&lt;/em&gt;.
 Ces individus n&amp;rsquo;étaient éligibles au RMI que s&amp;rsquo;ils avaient au moins 25 ans.&lt;/p&gt;
-&lt;h5 id=&#34;la-méthodologie-1&#34;&gt;La méthodologie&lt;/h5&gt;
+&lt;h4 id=&#34;la-méthodologie-1&#34;&gt;La méthodologie&lt;/h4&gt;
 &lt;p&gt;Cette limite d&amp;rsquo;âge de 25 ans crée une discontinuité pour estimer l&amp;rsquo;effet du RMI sur l&amp;rsquo;emploi.
 En particulier, Bargain et Doorly comparent les taux d&amp;rsquo;emploi de ceux &lt;em&gt;juste&lt;/em&gt; au-dessus et &lt;em&gt;juste&lt;/em&gt; en-dessous de 25 ans.
 Bien que ceux de plus et moins de 25 ans puissent différer sur de nombreux aspects pertinents, ceux juste au-dessus et en-dessous de cette limite d&amp;rsquo;âge sont probablement comparables.
@@ -1472,7 +1472,7 @@ Si tel est le cas, nous pouvons interpréter tout saut dans leur taux d&amp;rsqu
 Plus précisément, si le taux d&amp;rsquo;emploi changeait de manière continue autour du seuil &lt;em&gt;en l&amp;rsquo;absence du traitement&lt;/em&gt;, tout saut observé dans l&amp;rsquo;emploi à ce seuil refléterait l&amp;rsquo;effet du traitement.&lt;/p&gt;
 &lt;p&gt;Bien que le RSA ait maintenu le seuil d&amp;rsquo;éligibilité à 25 ans, il a augmenté le rendement du travail en réduisant le taux d&amp;rsquo;imposition des revenus salariaux.
 Bargain et Doorley ont donc refait l&amp;rsquo;analyse précédente en utilisant les données de 2010-2011, lorsque le RSA était en place.&lt;/p&gt;
-&lt;h5 id=&#34;les-résultats-1&#34;&gt;Les résultats&lt;/h5&gt;
+&lt;h4 id=&#34;les-résultats-1&#34;&gt;Les résultats&lt;/h4&gt;
 &lt;p&gt;Les résultats de Bargain et Doorly (2018) confirment les prédictions théoriques du modèle travail-loisir.&lt;/p&gt;
 &lt;p&gt;En particulier, ils suggèrent que le RMI a réduit le taux d&amp;rsquo;emploi pour ceux de plus de 25 ans, notamment parmi les individus à bas salaires.
 En effet, les résultats indiquent que ceux &lt;em&gt;juste&lt;/em&gt; au-dessus de 25 ans (donc éligibles au RMI) étaient 1,6 point de pourcentage moins susceptibles d&amp;rsquo;être employés que ceux &lt;em&gt;juste&lt;/em&gt; en-dessous de 25 ans (non éligibles au RMI).
@@ -1549,6 +1549,9 @@ La figure suivante montre cet effet de traitement simulé pour la réforme de 20
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/rd_rsa_2016.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Autor, D. H., Duggan, M., Greenberg, K., &amp;amp; Lyle, D. S. (2016). The impact of disability benefits on labor supply: Evidence from the VA&amp;rsquo;s disability compensation program. &lt;em&gt;American Economic Journal: Applied Economics&lt;/em&gt;, 8(3), 31-68.&lt;/p&gt;
+&lt;p&gt;Bargain, O., &amp;amp; Doorley, K. (2017). The Effect of Social Benefits on Youth Employment: Combining Regression Discontinuity and a Behavioral Model. &lt;em&gt;Journal of Human Resources&lt;/em&gt;, 52(4), 1032-1059.&lt;/p&gt;
 </description>
     </item>
     
