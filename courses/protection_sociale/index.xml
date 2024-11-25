@@ -1229,7 +1229,7 @@ L&amp;rsquo;individu acceptera-t-il une offre d&amp;rsquo;emploi de 15 euros ?&l
       <link>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</guid>
-      <description>&lt;h2 id=&#34;analyse-empirique&#34;&gt;Analyse empirique&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;analyse-empirique-i&#34;&gt;Analyse empirique I&lt;/h2&gt;
 &lt;p&gt;Dans cette section, nous discuterons de deux articles étudiant les effets des prestations sociales sur l&amp;rsquo;emploi.&lt;/p&gt;
 &lt;p&gt;Les questions de recherche que nous aimerions résoudre sont :&lt;/p&gt;
 &lt;ul&gt;
@@ -1552,6 +1552,385 @@ La figure suivante montre cet effet de traitement simulé pour la réforme de 20
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Autor, D. H., Duggan, M., Greenberg, K., &amp;amp; Lyle, D. S. (2016). The impact of disability benefits on labor supply: Evidence from the VA&amp;rsquo;s disability compensation program. &lt;em&gt;American Economic Journal: Applied Economics&lt;/em&gt;, 8(3), 31-68.&lt;/p&gt;
 &lt;p&gt;Bargain, O., &amp;amp; Doorley, K. (2017). The Effect of Social Benefits on Youth Employment: Combining Regression Discontinuity and a Behavioral Model. &lt;em&gt;Journal of Human Resources&lt;/em&gt;, 52(4), 1032-1059.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Production domestique</title>
+      <link>https://leda-inga.github.io/courses/protection_sociale/production-domestique/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://leda-inga.github.io/courses/protection_sociale/production-domestique/</guid>
+      <description>&lt;h2 id=&#34;une-version-étendue-du-modèle-néoclassique-travail-loisir&#34;&gt;Une version étendue du modèle néoclassique travail-loisir&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Ce chapitre s&amp;rsquo;appuie sur le chapitre 6 du livre de Blau et Winkler (voir syllabus).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jusqu&amp;rsquo;à présent, nous avons supposé que les individus allouent leur temps entre le travail rémunéré et le loisir.
+Cependant, dans la pratique, une grande partie de notre temps est également consacrée à des &lt;strong&gt;activités domestiques&lt;/strong&gt;, telles que cuisiner, faire la lessive et s&amp;rsquo;occuper des enfants ou des parents âgés.&lt;br&gt;
+En France, les personnes passent en moyenne trois heures par jour sur les tâches domestiques (&lt;a href=&#34;https://www.insee.fr/fr/statistiques/2123967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;voir la dernière enquête sur l&amp;rsquo;utilisation du temps de l&amp;rsquo;INSEE&lt;/a&gt;).
+Notamment, les femmes consacrent beaucoup plus de temps à ces activités que les hommes, surtout si elles ont des enfants.
+Alors que les mères ayant des enfants à charge consacrent environ cinq heures par jour aux tâches domestiques, leurs partenaires masculins n&amp;rsquo;y consacrent qu&amp;rsquo;environ la moitié de ce temps.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Définition&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Désormais, nous utiliserons le mot &lt;strong&gt;&amp;ldquo;travail&amp;rdquo;&lt;/strong&gt; pour désigner le temps consacré au travail &lt;em&gt;rémunéré&lt;/em&gt;.
+C&amp;rsquo;est-à-dire que, comme auparavant, nous nous référerons au travail &lt;em&gt;marchand&lt;/em&gt; et non au travail domestique.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dans ce chapitre, nous allons introduire le temps domestique dans le &lt;strong&gt;modèle néoclassique travail-loisir&lt;/strong&gt; que nous avons vu précédemment.&lt;br&gt;
+Notre objectif sera de comprendre comment les femmes avec enfants à charge allouent leur temps entre la maison et le travail.
+Nous allons explorer comment elles décident de travailler, et si oui, pour combien d&amp;rsquo;heures.
+Avec ce modèle étendu à l&amp;rsquo;esprit, nous examinerons ensuite comment les mères peuvent changer leurs décisions d&amp;rsquo;offre de travail en recevant des &lt;strong&gt;subventions à la garde d&amp;rsquo;enfants&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Avant d&amp;rsquo;entrer dans notre modèle théorique, notez que nous ne traiterons pas de la manière dont les couples prennent des décisions &lt;em&gt;conjointes&lt;/em&gt; sur leur allocation de temps.&lt;br&gt;
+Au lieu de cela, pour simplifier, nous allons nous concentrer sur un &lt;em&gt;unique&lt;/em&gt; décideur, généralement une mère avec des enfants à charge, qu&amp;rsquo;elle soit célibataire ou mariée.&lt;br&gt;
+Cependant, nous tiendrons compte de son &lt;strong&gt;contexte familial&lt;/strong&gt; en incluant les revenus des autres membres de la famille dans son revenu non salarié.&lt;br&gt;
+Les changements dans les revenus de ses proches (en particulier, de son partenaire) modifieront à leur tour la contrainte budgétaire de la mère et son choix optimal.&lt;/p&gt;
+&lt;h3 id=&#34;préférences&#34;&gt;Préférences&lt;/h3&gt;
+&lt;p&gt;Nous supposons que l&amp;rsquo;individu tire satisfaction (utilité) de la consommation des biens et services produits avec des &lt;strong&gt;biens/services &lt;em&gt;marchands&lt;/em&gt;&lt;/strong&gt; et du &lt;strong&gt;temps &lt;em&gt;non marchand&lt;/em&gt;&lt;/strong&gt; (temps domestique).&lt;br&gt;
+Les biens et services qu&amp;rsquo;elle aime consommer peuvent inclure un dîner avec des amis à la maison, des enfants en bonne santé, une maison propre ou de courtes vacances.
+Tous ceux-ci nécessitent non seulement d&amp;rsquo;acheter des biens et services sur le marché (tels que des ingrédients alimentaires, des produits de nettoyage, et des billets de transport), mais aussi d&amp;rsquo;y consacrer son &lt;em&gt;propre&lt;/em&gt; temps (en cuisinant, en jouant avec les enfants, en faisant le ménage, en organisant un voyage, etc.).&lt;/p&gt;
+&lt;p&gt;Comme dans les chapitres précédents, nous supposons que l&amp;rsquo;individu choisit le panier de biens marchands et temps non marchand qui &lt;strong&gt;maximise son utilité&lt;/strong&gt;, compte tenu de sa contrainte budgétaire.
+Bien que ces facteurs de production ne lui apportent pas &lt;em&gt;directement&lt;/em&gt; d&amp;rsquo;utilité, ils contribuent à produire les biens et services qu&amp;rsquo;elle aime.
+Nous pouvons donc exprimer la fonction d&amp;rsquo;utilité de l&amp;rsquo;individu en termes de biens marchand $(C_{M})$ et de temps non marchand $(h_{NM})$, les deux facteurs permettant produire ce qu&amp;rsquo;elle aime consommer.&lt;br&gt;
+Les courbes d&amp;rsquo;indifférence représentant cette fonction d&amp;rsquo;utilité &lt;em&gt;indirecte&lt;/em&gt; remplissent les mêmes propriétés discutées dans les chapitres précédents.&lt;br&gt;
+La figure ci-dessous montre deux courbes d&amp;rsquo;indifférence.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/household_indifference_curves.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Pour rappel, chaque courbe d&amp;rsquo;indifférence montre les différentes combinaisons de biens marchands $(C_{M})$ et de temps non marchand $(h_{NM})$ donnant le &lt;em&gt;même niveau d&amp;rsquo;utilité&lt;/em&gt;.&lt;br&gt;
+De plus, la pente de ces courbes capture combien l&amp;rsquo;individu est prêt à substituer des biens marchands au temps non marchand.
+Cette pente est plus raide lorsque le temps non marchand est relativement rare : lorsque l&amp;rsquo;individu dispose de beaucoup de biens marchands mais de peu de temps non marchand, elle est moins prête à renoncer à ce temps pour obtenir davantage de biens achetés.&lt;/p&gt;
+&lt;h4 id=&#34;substitution-entre-biens-marchands-et-temps-non-marchand&#34;&gt;Substitution entre biens marchands et temps non marchand&lt;/h4&gt;
+&lt;p&gt;Contrairement aux chapitres précédents, l&amp;rsquo;individu peut maintenant substituer des biens marchands au temps non marchand de &lt;em&gt;deux&lt;/em&gt; manières, dans la consommation et la production.&lt;br&gt;
+Discutons chacune d&amp;rsquo;elles.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Substitution dans la consommation&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;De manière générale, certaines biens et services nécessitent de grandes quantités de biens/services marchands mais peu de temps non-marchand, tandis que d&amp;rsquo;autres nécessitent l&amp;rsquo;inverse.
+Par exemple, comparez un dîner entre amis dans un restaurant étoilé à un dîner avec eux à la maison.
+Le premier peut coûter une bonne part de votre salaire journalier mais peu de temps personnel, tandis que le second peut être nettement plus abordable mais nécessiter beaucoup de temps pour cuisiner et nettoyer après le départ des invités.&lt;/p&gt;
+&lt;p&gt;La substitution dans la consommation implique donc de substituer des biens/services qui sont intensifs en biens marchands à ceux intensifs en temps non marchand (ou vice versa).
+Par exemple, l&amp;rsquo;individu peut être prêt à substituer un dîner dans un restaurant étoilé par deux dîners organisés chez elle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Substitution dans la production&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dans de nombreux cas, le même bien/service peut être produit avec &lt;em&gt;soit&lt;/em&gt; de grandes quantités de biens/services marchands &lt;em&gt;soit&lt;/em&gt; beaucoup de temps non marchand.
+Par exemple, vous pouvez avoir une maison propre soit en embauchant quelqu&amp;rsquo;un, soit en la nettoyant vous-même.&lt;/p&gt;
+&lt;p&gt;La substitution dans la production consiste donc à substituer des techniques de production qui sont intensives en biens marchands à celles intensives en temps non marchand (ou l&amp;rsquo;inverse).&lt;/p&gt;
+&lt;h4 id=&#34;comparaison-des-courbes-dindifférence-entre-individus&#34;&gt;Comparaison des courbes d&amp;rsquo;indifférence entre individus&lt;/h4&gt;
+&lt;p&gt;La pente d&amp;rsquo;une courbe d&amp;rsquo;indifférence reflète l&amp;rsquo;ampleur de la substitution entre les biens marchands et le temps non-marchand, tant au niveau de la consommation que de la production.&lt;/p&gt;
+&lt;p&gt;En particulier, les individus qui attachent une valeur relative plus élevée aux biens de consommation intensifs en temps auront des courbes d&amp;rsquo;indifférence plus raides.
+Par exemple, certaines personnes peuvent simplement valoriser hautement le fait &lt;em&gt;d&amp;rsquo;accueillir&lt;/em&gt; des amis pour un dîner.
+Ces individus ne seront donc pas facilement convaincus de substituer des biens marchands au temps non-marchand, du moins en ce qui concerne le dîner entre amis.&lt;/p&gt;
+&lt;p&gt;De plus, ceux qui supportent une plus grande charge de travail domestique et de responsabilités familiales trouveront plus difficile de renoncer à du temps non-marchand dans la production, ayant ainsi aussi des courbes d&amp;rsquo;indifférence plus raides.
+En particulier, les femmes avec des familles qui adhèrent à des rôles de genre traditionnels peuvent ressentir une pression sociale pour passer plus de temps à la maison.
+Si tel est le cas, elles auront plus de mal à substituer des biens marchands à leur temps domestique pour &amp;ldquo;produire&amp;rdquo; des enfants en bonne santé, des repas nutritifs, une maison propre, etc.&lt;/p&gt;
+&lt;h3 id=&#34;la-contrainte-budgétaire&#34;&gt;La contrainte budgétaire&lt;/h3&gt;
+&lt;p&gt;Nous supposons que l&amp;rsquo;individu a $T$ heures par semaine à allouer entre les activités de marché et les activités non-marchandes (domestiques).&lt;br&gt;
+De plus, elle a $V$ euros par semaine de revenu non salarial (qui peut inclure le revenu d&amp;rsquo;un partenaire), et reçoit un salaire de $w$ euros pour chaque heure travaillée sur le marché du travail.&lt;/p&gt;
+&lt;p&gt;La figure ci-dessous montre la contrainte budgétaire de l&amp;rsquo;individu : toutes les combinaisons de temps non-marchand et de biens de marchands parmi lesquelles elle peut choisir, compte tenu de son revenu non salarial et de son salaire.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/household_budget_constraint.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Comme nous l&amp;rsquo;avons fait précédemment, nous appellerons le panier $E$ dans la figure le &lt;strong&gt;&amp;ldquo;point de dotation&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;la-décision-de-travailler&#34;&gt;La décision de travailler&lt;/h3&gt;
+&lt;p&gt;Comme dans le modèle simple travail-loisir que nous avons vu précédemment, l&amp;rsquo;individu choisira de travailler si son salaire de marché $(w)$ est supérieur à son salaire de réserve $(w^{r})$.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Rappel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;salaire de réserve&lt;/strong&gt; $(w^{r})$ est la compensation monétaire qui rend l&amp;rsquo;individu indifférent entre travailler ou ne pas travailler sur le marché du travail.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Étant donné la contrainte budgétaire dans la figure précédente, le salaire de réserve de l&amp;rsquo;individu est égal à la pente de la courbe d&amp;rsquo;indifférence (en valeur absolue) au point de dotation $E$.&lt;/p&gt;
+&lt;p&gt;Par conséquent, l&amp;rsquo;individu choisira de rejoindre la force de travail si et seulement si :&lt;/p&gt;
+&lt;p&gt;$$w&amp;gt;w^{r}=\left(\frac{MU_{h_{NM}}}{MU_{C_{NM}}}\right)_{\bigr\rvert h_{NM}=T,C_{NM}=V}$$&lt;/p&gt;
+&lt;p&gt;Ainsi, nous pouvons prédire que, toutes choses égales par ailleurs, les femmes seront plus susceptibles de travailler si elles ont des salaires plus élevés (si leur temps de marché est mieux rémunéré).
+En revanche, elles seront moins susceptibles de travailler si leurs courbes d&amp;rsquo;indifférence sont plus raides (si elles attribuent plus de valeur au temps non-marchand).&lt;/p&gt;
+&lt;h4 id=&#34;la-valeur-du-temps-marchand-boldsymbolw&#34;&gt;La valeur du temps marchand $\boldsymbol{(w)}$&lt;/h4&gt;
+&lt;p&gt;Des salaires plus élevés augmentent le coût d&amp;rsquo;opportunité du temps passé dans des activités non-marchandes.
+Ainsi, ils augmentent la propension des femmes à travailler par un &lt;strong&gt;effet de substitution&lt;/strong&gt;.
+Cela ne signifie &lt;em&gt;pas&lt;/em&gt; qu&amp;rsquo;une augmentation de salaire donnée va tirer &lt;em&gt;toutes&lt;/em&gt; les femmes inactives dans la force de travail.
+Certaines auront des salaires de réserve trop élevés pour les inciter à travailler.
+Cependant, d&amp;rsquo;autres avec des salaires de réserve plus faibles commenceront à travailler.
+La figure ci-dessous illustre ce second cas.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/household_wages_lfp.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;À un salaire initial de $w_{0}$, l&amp;rsquo;individu maximise son utilité en restant à son point de dotation $E$, c&amp;rsquo;est-à-dire qu&amp;rsquo;elle reste en dehors de la force de travail $(w_{0}&amp;lt;w^{r})$.&lt;br&gt;
+Cependant, à un nouveau salaire de $w_{1}&amp;gt;w_{0}$, elle maximise son utilité en passant au panier $B$, choisissant d&amp;rsquo;entrer sur le marché du travail $(w_{1}&amp;gt;w^{r})$.&lt;/p&gt;
+&lt;p&gt;Cet effet prédit des salaires sur la participation au marché du travail peut partiellement expliquer pourquoi les femmes (et les hommes) ayant des niveaux d&amp;rsquo;éducation plus élevés sont plus susceptibles de travailler.&lt;br&gt;
+Par exemple, en France, les femmes diplômées du supérieur sont 18 points de pourcentage plus susceptibles de participer au marché du travail que celles qui n&amp;rsquo;en ont pas &lt;a href=&#34;https://www.strategie.gouv.fr/publications/influence-diplome-participation-marche-travail&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(voir &lt;em&gt;&amp;ldquo;Quelle influence du diplôme sur la participation au marché du travail ?&amp;rdquo;&lt;/em&gt; par France Stratégie)&lt;/a&gt;.&lt;br&gt;
+Notez, cependant, que cette &lt;em&gt;corrélation&lt;/em&gt; entre l&amp;rsquo;éducation et la participation au marché du travail peut non seulement refléter l&amp;rsquo;effet causal des salaires sur les incitations à travailler, mais aussi une &amp;ldquo;auto-sélection&amp;rdquo; : ces femmes qui prévoient de travailler davantage au cours de leurs années d&amp;rsquo;adulte (car, par exemple, elles ou leurs familles valorisent davantage le &amp;ldquo;succès&amp;rdquo; professionnel) peuvent &lt;em&gt;choisir&lt;/em&gt; d&amp;rsquo;investir plus dans leur éducation.&lt;/p&gt;
+&lt;h4 id=&#34;la-valeur-du-temps-non-marchand-boldsymbolwr&#34;&gt;La valeur du temps non marchand $\boldsymbol{(w^{r})}$&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Préférences&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;La valeur du temps non marchand dépend des goûts de l&amp;rsquo;individu et des restrictions pour substituer des biens marchands au temps non-marchand.
+En particulier, les femmes avec un goût plus prononcé pour le temps non marchand, ou avec des contraintes plus strictes pour le substituer avec des biens marchands, auront des courbes d&amp;rsquo;indifférence plus raides, donc des salaires de réserve plus élevés.
+Ainsi, toutes choses égales par ailleurs, ces femmes seront moins susceptibles de rejoindre la population active.&lt;/p&gt;
+&lt;!---
+Autrement dit, les femmes qui nécessitent une compensation monétaire plus élevée pour renoncer à une heure de temps non-marchand auront moins de chances de travailler sur le marché du travail (d&#39;autres facteurs restant constants).
+--&gt;
+&lt;p&gt;Les goûts et les restrictions pour substituer des biens marchands au temps hors du marché du travail peuvent dépendre fortement de la &lt;strong&gt;présence de nourrissons et de jeunes enfants&lt;/strong&gt;.&lt;br&gt;
+Considérons deux femmes différentes : Camille qui a un enfant à charge de plus de cinq ans et Marine qui a un &lt;em&gt;petit&lt;/em&gt; enfant de moins de douze mois.
+Tous les autres facteurs étant égaux, nous pouvons nous attendre à ce que Marine soit moins susceptible que Camille de choisir de travailler.
+En effet, bien que les femmes puissent acheter des services de garde d&amp;rsquo;enfants sur le marché, elles peuvent avoir besoin &lt;em&gt;et&lt;/em&gt; vouloir s&amp;rsquo;occuper de leurs enfants &lt;em&gt;elles-mêmes&lt;/em&gt;, surtout lorsqu&amp;rsquo;elles ont des &lt;em&gt;petits&lt;/em&gt; enfants.
+Si tel est le cas, les courbes d&amp;rsquo;indifférence de Marine seront plus raides que celles de Camille.
+Cette pente plus raide reflète que Marine, qui a un enfant de moins de 12 mois, a plus de mal à utiliser des techniques de production qui sont intensives en biens marchands (substitution dans la production), comme manger au restaurant.
+En outre, cela reflète qu&amp;rsquo;elle a une préférence plus prononcée pour consommer des biens qui demandent plus de temps domestique (substitution dans la consommation), comme s&amp;rsquo;occuper de son enfant &lt;em&gt;elle-même&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Les deux figures ci-dessous illustrent le choix optimal de Camille et Marine.
+Nous supposons qu&amp;rsquo;elles ont le même salaire de marché $w$ et revenu non salarial $V$.
+De plus, nous supposons qu&amp;rsquo;elles ont des préférences identiques pour les biens marchands et le temps non marchand, &lt;em&gt;à l&amp;rsquo;exception&lt;/em&gt; de leurs responsabilités familiales et de leurs préférences en tant que mères.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Camille rejoint la force de travail : $w &amp;gt; w^{r}$&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/camille.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Marine ne rejoint pas la force de travail : $w \leq w^{r}$&lt;/strong&gt;&lt;/em&gt;
+ &lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/marine.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Il est important de noter que les goûts et les restrictions des femmes concernant l&amp;rsquo;échange de temps domestique contre des biens marchands peuvent également être influencés par &lt;strong&gt;des normes sociales et des attitudes&lt;/strong&gt; envers leur rôle sur le marché du travail et au sein du ménage.
+Toutes choses égales par ailleurs, les femmes seront moins susceptibles de travailler, ou travailleront moins d&amp;rsquo;heures, si leurs familles adhèrent à la division traditionnelle du travail dans laquelle les hommes se spécialisent dans le travail de marché et les femmes dans le travail domestique.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Revenu non salarial&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;La valeur du temps non marchand dépend également du revenu non salarial de l&amp;rsquo;individu, qui peut inclure les revenus d&amp;rsquo;un partenaire.
+Pour les personnes mariées, la source principale de revenu non-salarié est souvent le revenu de leur conjoint.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Hypothèse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nous supposons que le temps non marchand est un bien &lt;em&gt;&amp;ldquo;normal&amp;rdquo;&lt;/em&gt;.
+C&amp;rsquo;est-à-dire que nous supposons que l&amp;rsquo;individu demande plus de temps non marchand (d&amp;rsquo;où elle travaille moins) lorsque son revenu augmente (à salaire constant).
+Dans le modèle travail-loisir que nous avons abordé dans les chapitres précédents, nous avons aussi supposé que le loisir (également le temps passé en dehors du marché du travail) était un bien normal.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ainsi, un revenu non salarial plus élevé augmente la demande de temps non marchand, et réduit les heures de travail sur le marché, par un &lt;strong&gt;effet revenu&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;En fait, certains individus peuvent se retirer complètement du marché du travail lorsque leur revenu non salarial est élevé.
+Donc, toutes choses égales par ailleurs, les femmes dont les partenaires gagnent plus sont moins susceptibles de travailler.
+La figure ci-dessous illustre cet effet.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/household_income_increase.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Lorsque son revenu non salarial s&amp;rsquo;élève à $V_{0}$, l&amp;rsquo;individu maximise son utilité en choisissant le panier $A$, travaillant donc $T-h_{NM,0}^{\star}$ heures par semaine (et consommant $C_{M,0}^{\star}$ euros/semaine de biens marchands).&lt;br&gt;
+Néanmoins, une fois que son revenu non salarial atteint $V_{1}$, elle maximise son utilité en étant à son &lt;em&gt;nouveau&lt;/em&gt; point de dotation $(E_{1})$, quittant ainsi le marché du travail.&lt;/p&gt;
+&lt;p&gt;Pourquoi son nouveau revenu non salarial l&amp;rsquo;incite-t-il à faire ce choix ?&lt;br&gt;
+Un revenu non salarial plus élevé $(V_{1}&amp;gt;V_{0})$ augmente le salaire de réserve de l&amp;rsquo;individu $(w_{1}^{r}&amp;gt;w_{0}^{r})$ en lui permettant de consommer plus de biens marchands à son point de dotation, augmentant ainsi la &lt;em&gt;valeur relative&lt;/em&gt; du temps non marchand à 0 heures de travail.&lt;br&gt;
+En d&amp;rsquo;autres termes, l&amp;rsquo;individu a besoin d&amp;rsquo;une compensation plus élevée pour renoncer à une heure de temps non marchand si elle peut consommer &amp;ldquo;beaucoup de&amp;rdquo; biens marchands sans faire de travail rémunéré.&lt;br&gt;
+Dans la figure ci-dessus, l&amp;rsquo;augmentation du revenu non salarial de l&amp;rsquo;individu est &lt;em&gt;suffisamment importante&lt;/em&gt; pour porter son salaire de réserve &lt;em&gt;au-dessus&lt;/em&gt; de son salaire de marché $(w_{1}^{r}&amp;gt;w)$, ce qui l&amp;rsquo;incite à quitter complètement le marché du travail.&lt;/p&gt;
+&lt;p&gt;La figure illustre également que les femmes mariées, qui ne sont pas dans la force de travail, seront plus susceptibles de travailler si le revenu de leurs maris diminue (par exemple, s&amp;rsquo;ils perdent leur emploi lors d&amp;rsquo;une récession économique).&lt;br&gt;
+Cet effet est appelé le &lt;strong&gt;&amp;ldquo;effet du travailleur ajouté&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;heures-de-travail&#34;&gt;Heures de travail&lt;/h3&gt;
+&lt;p&gt;Ceux qui rejoignent la force de travail maximisent leur utilité en travaillant jusqu&amp;rsquo;à ce que leur taux marginal de substitution entre les biens marchands et le temps non marchand (en valeur absolue) soit égal à leur salaire de marché.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est-à-dire,
+$$\left(\frac{MU_{h_{NM}}}{MU_{C_{M}}}\right)_{\bigr\rvert  h_{NM}^{\star},C_{NM}^{\star}}=w$$&lt;/p&gt;
+&lt;p&gt;Les heures de travail optimales des femmes $(T-h_{NM}^{\star})$ dépendent donc de leurs goûts &lt;em&gt;et&lt;/em&gt; leurs contraintes pour substituer du temps non marchand par des biens du marché (côté droit de la condition ci-dessus).
+Par exemple, les femmes qui sont plus orientées vers la carrière trouveront optimal de travailler plus d&amp;rsquo;heures, tous les autres facteurs étant égaux.
+En outre, les femmes ayant des petits enfants choisiront de travailler moins.&lt;/p&gt;
+&lt;p&gt;Le choix des heures de travail des femmes dépend également de leur revenu non salarial.
+En effet, comme nous l&amp;rsquo;avons mentionné auparavant, un revenu non salarial plus élevé augmente la demande de temps non-marchand et réduit ainsi les heures de travail sur le marché (effet revenu).&lt;/p&gt;
+&lt;p&gt;Enfin, les heures de travail des femmes dépendent également du salaire de marché qu&amp;rsquo;elles peuvent obtenir.
+Des salaires plus élevés leur permettent de consommer plus de biens marchands &lt;em&gt;et de temps non-marchand&lt;/em&gt;, les incitant ainsi à travailler moins d&amp;rsquo;heures (effet revenu).
+Néanmoins, des salaires plus élevés augmentent aussi le coût d&amp;rsquo;opportunité du temps non-marchand, encourageant ainsi les femmes à travailler plus d&amp;rsquo;heures (effet de substitution).
+L&amp;rsquo;effet net de ces deux forces est théoriquement ambigu.
+Cependant, la plupart des études empiriques suggèrent que l&amp;rsquo;effet de substitution domine.&lt;/p&gt;
+&lt;h3 id=&#34;exercices&#34;&gt;Exercices&lt;/h3&gt;
+&lt;p&gt;Les exercices suivants sont extraits du Chapitre 6 du livre d&amp;rsquo;Ehrenberg et al. (voir le syllabus).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exercice 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La phrase suivante est-elle vraie, fausse ou incertaine ? Pourquoi ?&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Si le conjoint d’une femme obtient une augmentation de salaire, elle a tendance à travailler moins, mais si c’est elle qui obtient une augmentation, elle a tendance à travailler plus.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exercice 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le gouvernement souhaite fournir des incitations pour que les mères célibataires entrent sur le marché du
+travail et obtiennent un emploi.
+En particulier, le gouvernement envisage de payer 20 euros par jour aux mères célibataires ayant de jeunes enfants si elles travaillent au moins six heures par jour, cinq jours par semaine.&lt;/p&gt;
+&lt;p&gt;Tracez une contrainte budgétaire journalière actuelle pour une mère célibataire, puis tracez la contrainte qui serait créée par la subvention de 20 euros.
+Discutez des effets probables sur la participation au marché du travail et les heures travaillées des mères éligibles à la subvention.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application des politiques II</title>
+      <link>https://leda-inga.github.io/courses/protection_sociale/garde-denfants/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://leda-inga.github.io/courses/protection_sociale/garde-denfants/</guid>
+      <description>&lt;h2 id=&#34;subventions-à-la-garde-denfants&#34;&gt;Subventions à la garde d&amp;rsquo;enfants&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Ce chapitre s&amp;rsquo;appuie sur le chapitre 6 du livre de Blau et Winkler (voir syllabus).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Comme nous l&amp;rsquo;avons vu dans le dernier chapitre, la présence de jeunes enfants dans le ménage peut être un facteur dissuasif important pour la participation des femmes au marché du travail.
+Nous allons donc maintenant examiner l&amp;rsquo;effet des subventions à la garde d&amp;rsquo;enfants sur leur décision de travailler.&lt;/p&gt;
+&lt;p&gt;Le modèle de production domestique nous aide à prédire que ces subventions peuvent augmenter la probabilité que les femmes travaillent sur le marché.&lt;br&gt;
+Traçons cet effet.
+Nous montrerons d&amp;rsquo;abord comment les &lt;strong&gt;coûts de garde d&amp;rsquo;enfants&lt;/strong&gt; peuvent réduire les incitations au travail, incitant certaines femmes à quitter la population active.
+Ensuite, nous montrerons comment la &lt;strong&gt;garde d&amp;rsquo;enfants subventionnée&lt;/strong&gt; peut encourager certaines de ces femmes, qui &lt;em&gt;autrement&lt;/em&gt; ne travailleraient pas, à commencer à travailler.&lt;/p&gt;
+&lt;h3 id=&#34;leffet-des-coûts-de-garde-denfants-sur-la-participation-au-marché-du-travail&#34;&gt;L&amp;rsquo;effet des coûts de garde d&amp;rsquo;enfants sur la participation au marché du travail&lt;/h3&gt;
+&lt;p&gt;Supposons que Yannick, mère de jeunes enfants, gagne $w$ euros par heure si elle travaille sur le marché.
+Cependant, elle doit payer $c$ euros en services de garde pour chaque heure où elle n&amp;rsquo;est pas avec ses enfants.&lt;br&gt;
+Les coûts de garde d&amp;rsquo;enfants imposent donc une taxe sur son travail, réduisant son salaire &lt;em&gt;net&lt;/em&gt; à $w-c$ euros/heure.
+En conséquence, ces coûts peuvent l&amp;rsquo;encourager à rester en dehors du marché du travail.
+Le graphique ci-dessous illustre cet effet négatif sur sa décision de travailler.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/household_budget_chilcare_a.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Avec un salaire net de $w$, Yannick maximise son utilité en choisissant le panier $A$, travaillant ainsi $T-h_{NM,0}^{\star}$ heures sur le marché du travail.
+Cependant, avec un salaire net de seulement $w-c$, elle maximise son utilité en restant à son point de dotation $E$, se retirant ainsi de la population active.
+Les coûts de garde d&amp;rsquo;enfants sont donc suffisamment élevés pour abaisser son salaire net &lt;em&gt;en dessous&lt;/em&gt; de son salaire de réserve $(w-c&amp;lt;w^{r})$.&lt;/p&gt;
+&lt;p&gt;Deux forces entrent en jeu dans la décision de Yannick d&amp;rsquo;arrêter de travailler (passer de $A$ à $E$) : l&amp;rsquo;effet revenu et l&amp;rsquo;effet de substitution.&lt;br&gt;
+D&amp;rsquo;abord, les coûts de garde d&amp;rsquo;enfants diminuent son revenu : elle peut se permettre moins de paniers de $C_{M}$ et $h_{NM}$ lorsqu&amp;rsquo;elle gagne $w-c$ plutôt que $w$ par heure de travail.
+Par conséquent, elle diminue sa demande de temps non marchand (un bien &lt;em&gt;normal&lt;/em&gt;) et &lt;em&gt;augmente&lt;/em&gt; ses heures de travail (effet de revenu).&lt;br&gt;
+Ensuite, les coûts de garde d&amp;rsquo;enfants réduisent le prix du temps hors marché.
+Ce prix plus bas (coût d&amp;rsquo;opportunité plus failble) incite Yannick à augmenter sa demande de temps non marchand et à &lt;em&gt;réduire&lt;/em&gt; ses heures de travail (effet de substitution).&lt;/p&gt;
+&lt;p&gt;Dans cet exemple, l&amp;rsquo;effet substitution est dominant et suffisamment fort pour pousser Yannick hors du marché du travail.&lt;/p&gt;
+&lt;h3 id=&#34;leffet-des-subventions-à-la-garde-denfants-sur-la-participation-au-marché-du-travail&#34;&gt;L&amp;rsquo;effet des subventions à la garde d&amp;rsquo;enfants sur la participation au marché du travail&lt;/h3&gt;
+&lt;p&gt;Explorons maintenant comment Yannick pourrait réagir à la subvention des services de garde d&amp;rsquo;enfants.
+Le graphique ci-dessous montre son choix optimal lorsqu&amp;rsquo;elle reçoit une subvention de $s$ euros pour chaque heure de garde achetée sur le marché.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/household_budget_chilcare_b.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Sans subvention, Yannick reçoit un salaire &lt;em&gt;net&lt;/em&gt; de $w-c$ euros/heure.
+À ce salaire, elle maximise son utilité en restant à son point de dotation $E$, donc hors du marché du travail.
+C&amp;rsquo;est le choix optimal dont nous avons parlé auparavant.
+Cependant, avec la subvention, elle reçoit un salaire &lt;em&gt;net&lt;/em&gt; de $w-c+s$.
+Avec ce salaire &lt;em&gt;plus élevé&lt;/em&gt;, elle maximise son utilité en se déplaçant au panier $B$, rejoignant ainsi la population active et travaillant $T-h_{NM,2}^{\star}$ heures.
+La subvention est donc suffisamment élevée pour augmenter son salaire net &lt;em&gt;au-dessus&lt;/em&gt; de son salaire de réserve $(w-c+s&amp;gt;w^{r})$.&lt;/p&gt;
+&lt;p&gt;Pourquoi Yannick choisit-elle de passer de $E$ à $B$ ?&lt;br&gt;
+La subvention à la garde d&amp;rsquo;enfants augmente le coût d&amp;rsquo;opportunité de son temps non marchand, l&amp;rsquo;encourageant ainsi à réduire les heures qu&amp;rsquo;elle consacre aux activités hors marché et à commencer à travailler.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Quel est l&amp;rsquo;effet des subventions à la garde d&amp;rsquo;enfants sur les &lt;em&gt;heures de travail&lt;/em&gt; des mères qui sont &lt;em&gt;déjà&lt;/em&gt; dans la population active ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour les mères inactives, les subventions à la garde d&amp;rsquo;enfants augmentent &lt;em&gt;sans ambiguïté&lt;/em&gt; la probabilité qu&amp;rsquo;elles entrent sur le marché du travail, par un effet de substitution.
+En revanche, pour les mères actives, ces subventions ont un effet &lt;em&gt;ambigu&lt;/em&gt; sur leurs heures de travail.
+En particulier, ces mères ne travailleront plus d&amp;rsquo;heures que si l&amp;rsquo;effet de substitution domine l&amp;rsquo;effet revenu.&lt;/p&gt;
+&lt;p&gt;Pourquoi pouvons-nous faire une prédiction &lt;em&gt;claire&lt;/em&gt; concernant l&amp;rsquo;effet des subventions à la garde d&amp;rsquo;enfants sur la participation au marché du travail, mais pas sur les heures travaillées ?
+Parce qu&amp;rsquo;une augmentation des salaires nets (ici, en raison d&amp;rsquo;une garde d&amp;rsquo;enfants subventionnée) ne crée un effet revenu que si l&amp;rsquo;individu travaille &lt;em&gt;déjà&lt;/em&gt; sur le marché.
+Si ce n&amp;rsquo;est pas le cas, une augmentation de son salaire net n&amp;rsquo;a aucun effet sur son revenu réel.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
