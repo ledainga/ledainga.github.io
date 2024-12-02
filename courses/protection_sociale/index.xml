@@ -618,7 +618,7 @@ Ce cas est illustré dans la figure ci-dessous.&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Lorsque le salaire du travailleur passe de $w_{0}$ à $w_{1}$, il choisit le panier $B$ au lieu de $A$.
-En outre, il choisit moins d&amp;rsquo;heures de loisir, $L^{\star}&lt;em&gt;{1}$ au lieu de $L^{\star}&lt;/em&gt;{0}$ ; il travaille donc $L^{\star}&lt;em&gt;{0}-L^{\star}&lt;/em&gt;{1}$ &lt;em&gt;plus&lt;/em&gt; d&amp;rsquo;heures qu&amp;rsquo;auparavant.&lt;/p&gt;
+En outre, il choisit moins d&amp;rsquo;heures de loisir, $L_{1}^{\star}$ au lieu de $L_{0}^{\star}$ ; il travaille donc $L_{0}^{\star}-L_{1}^{\star}$ &lt;em&gt;plus&lt;/em&gt; d&amp;rsquo;heures qu&amp;rsquo;auparavant.&lt;/p&gt;
 &lt;p&gt;Le passage du panier $A$ à $A^{\prime}$ montre l&amp;rsquo;effet de revenu, tandis que le passage de $A^{\prime}$ à $B$, l&amp;rsquo;effet de substitution.&lt;/p&gt;
 &lt;h3 id=&#34;travailler-ou-ne-pas-travailler-&#34;&gt;Travailler ou ne pas travailler ?&lt;/h3&gt;
 &lt;p&gt;Jusqu&amp;rsquo;à présent, nous avons supposé que l&amp;rsquo;individu avait choisi de travailler et qu&amp;rsquo;il choisissait son nombre optimal d&amp;rsquo;heures de travail.
