@@ -1226,9 +1226,9 @@ L&amp;rsquo;individu acceptera-t-il une offre d&amp;rsquo;emploi de 15 euros ?&l
     
     <item>
       <title>Analyse empirique</title>
-      <link>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</link>
+      <link>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique-i/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique/</guid>
+      <guid>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique-i/</guid>
       <description>&lt;h2 id=&#34;analyse-empirique-i&#34;&gt;Analyse empirique I&lt;/h2&gt;
 &lt;p&gt;Dans cette section, nous discuterons de deux articles étudiant les effets des prestations sociales sur l&amp;rsquo;emploi.&lt;/p&gt;
 &lt;p&gt;Les questions de recherche que nous aimerions résoudre sont :&lt;/p&gt;
@@ -1931,6 +1931,207 @@ En particulier, ces mères ne travailleront plus d&amp;rsquo;heures que si l&amp
 Parce qu&amp;rsquo;une augmentation des salaires nets (ici, en raison d&amp;rsquo;une garde d&amp;rsquo;enfants subventionnée) ne crée un effet revenu que si l&amp;rsquo;individu travaille &lt;em&gt;déjà&lt;/em&gt; sur le marché.
 Si ce n&amp;rsquo;est pas le cas, une augmentation de son salaire net n&amp;rsquo;a aucun effet sur son revenu réel.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&#34;exercises&#34;&gt;Exercises&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Exercise 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cet exercice est tiré du chapitre 7 du livre de Tito Boeri et Jan Van Ours (voir syllabus).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Les préférences d&amp;rsquo;Elena pour les biens achetés sur le marché $(C)$ et les biens produits à la maison $(D)$ peuvent être exprimées comme suit :
+$$U = CD$$&lt;/p&gt;
+&lt;p&gt;Elena dispose de 100 heures par semaine à répartir entre le travail sur le marché et la production domestique.
+Elle peut produire des biens domestiques $D$ à l&amp;rsquo;aide de la technologie suivante :
+$$f(h_{D}) =\sqrt h_{D}$$&lt;/p&gt;
+&lt;p&gt;où $h_{D}$ désigne les heures qu&amp;rsquo;elle consacre au travail domestique.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Quelle est sa répartition optimale du temps entre le travail sur le marché et la production domestique si elle gagne 10 euros de l&amp;rsquo;heure ?&lt;/li&gt;
+&lt;li&gt;Supposons maintenant qu&amp;rsquo;Elena ait un enfant.
+Etant donné la valeur supplémentaire du temps passé avec son enfant, sa fonction d&amp;rsquo;utilité devient $U = CD^2$.&lt;br&gt;
+Par ailleurs, toute heure passée loin de son enfant implique un coût de 5 euros à payer à une baby-sitter.&lt;br&gt;
+Comment cela affecte-t-il la répartition de son temps entre le travail et la maison ?&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analyse empirique</title>
+      <link>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique-ii/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://leda-inga.github.io/courses/protection_sociale/analyse-empirique-ii/</guid>
+      <description>&lt;h2 id=&#34;analyse-empirique-ii&#34;&gt;Analyse empirique II&lt;/h2&gt;
+&lt;p&gt;Comme discuté dans le chapitre précédent, des coûts de garde d&amp;rsquo;enfants plus bas peuvent encourager les mères à entrer sur le marché du travail en augmentant leurs salaires &lt;em&gt;nets&lt;/em&gt;.
+De plus, cela peut également inciter celles qui sont déjà sur le marché du travail à travailler plus d&amp;rsquo;heures.&lt;/p&gt;
+&lt;p&gt;Dans ce chapitre, nous discuterons des résultats de deux articles qui évaluent les effets de la réduction des coûts de garde d&amp;rsquo;enfants sur l&amp;rsquo;offre de travail des femmes.
+Le premier se concentre sur des subventions de garde d&amp;rsquo;enfants plus élevées en France, tandis que le second examine l&amp;rsquo;allongement de la journée scolaire dans les écoles élémentaires publiques au Mexique.&lt;/p&gt;
+&lt;p&gt;Ces articles nous permettent de souligner deux points.
+Premièrement, les aides à la garde d&amp;rsquo;enfants peuvent prendre d&amp;rsquo;autres formes que les transferts gouvernementaux aux familles ayant des enfants à charge.
+En effet, nous pouvons considérer les écoles publiques gratuites comme une grande subvention gouvernementale aux coûts de garde d&amp;rsquo;enfants, car elles aident à libérer les mères pour un travail rémunéré.
+Deuxièmement, comme pour &lt;em&gt;toute&lt;/em&gt; politique publique, les effets des politiques de garde d&amp;rsquo;enfants sur l&amp;rsquo;offre de travail des femmes peuvent largement dépendre de leur contexte.
+En particulier, ils sont susceptibles d&amp;rsquo;être plus limités dans les pays où les femmes bénéficient &lt;em&gt;déjà&lt;/em&gt; d&amp;rsquo;une aide généreuse à la garde d&amp;rsquo;enfants, comme en France.
+De plus, ils pourraient également être plus limités dans les sociétés où les choix professionnels des femmes sont fortement influencés par des rôles de genre traditionnels (plus répandus au Mexique qu&amp;rsquo;en France).&lt;/p&gt;
+&lt;h3 id=&#34;subventions-de-garde-denfants-et-participation-des-femmes-au-marché-du-travail--perspectives-dune-réforme-française&#34;&gt;Subventions de garde d&amp;rsquo;enfants et participation des femmes au marché du travail : Perspectives d&amp;rsquo;une réforme française&lt;/h3&gt;
+&lt;p&gt;Givord et Marbot (2005) évaluent les effets d&amp;rsquo;une politique de 2004 en France qui a élargi la générosité des subventions de garde d&amp;rsquo;enfants, en particulier pour les familles à faible et moyen revenu.&lt;/p&gt;
+&lt;h4 id=&#34;la-politique&#34;&gt;La politique&lt;/h4&gt;
+&lt;p&gt;En 2004, le gouvernement français a lancé un nouveau système de soutien à la garde d&amp;rsquo;enfants appelé &lt;em&gt;&amp;ldquo;Prestation d&amp;rsquo;accueil du Jeune Enfant (PAJE)&amp;rdquo;&lt;/em&gt;.
+Ce système PAJE visait à augmenter la générosité des subventions de garde d&amp;rsquo;enfants et à simplifier le processus administratif pour les réclamer.
+Le système ne s&amp;rsquo;appliquait qu&amp;rsquo;aux familles dont le plus jeune enfant est né &lt;em&gt;après&lt;/em&gt; le 1er janvier 2004. Les familles avec un enfant né en 2004 pouvaient recevoir jusqu&amp;rsquo;à 350 euros &lt;em&gt;supplémentaires&lt;/em&gt; par mois en subventions de garde d&amp;rsquo;enfants par rapport aux familles avec un enfant né en 2003.
+En effet, pour certaines familles, la nouvelle subvention totale pouvait presque couvrir le coût total des services de garde.&lt;/p&gt;
+&lt;p&gt;Ce nouveau système de soutien était particulièrement important pour les familles ayant des enfants &lt;em&gt;de moins&lt;/em&gt; de 3 ans, pour lesquelles concilier travail et parentalité était plus difficile.
+En effet, les parents pouvaient envoyer leurs enfants à l&amp;rsquo;école maternelle gratuite, à temps plein, une fois qu&amp;rsquo;ils avaient 3 ans.
+Mais, jusqu&amp;rsquo;à ce moment-là, ils devaient trouver d&amp;rsquo;autres moyens d&amp;rsquo;organiser la garde d&amp;rsquo;enfants pendant les heures de travail.
+Cela signifiait souvent s&amp;rsquo;occuper de leurs enfants eux-mêmes, recourir à des soins informels de la part de proches (comme des grands-parents), ou recourir à des services partiellement subventionnés (crèches avec peu de places ou assistantes maternelles privées).&lt;/p&gt;
+&lt;h4 id=&#34;les-données&#34;&gt;Les données&lt;/h4&gt;
+&lt;p&gt;Givord et Marbot (2005) s&amp;rsquo;appuient sur des données fiscales administratives de 2005 à 2009, c&amp;rsquo;est-à-dire uniquement &lt;em&gt;après&lt;/em&gt; l&amp;rsquo;introduction du nouveau système de soutien à la garde d&amp;rsquo;enfants.
+Leur jeu de données comprend des informations sur le revenu brut individuel et le nombre de membres de la famille.
+Il contient également des informations sur la date de naissance de chaque membre de la famille, ce qui leur permet de classer les familles avec enfants en fonction de l&amp;rsquo;âge du plus jeune enfant.&lt;/p&gt;
+&lt;p&gt;Leur principal échantillon d&amp;rsquo;estimation comprend des mères âgées de 20 à 50 ans dont le plus jeune enfant est âgé d&amp;rsquo;un ou deux ans.
+En outre, leurs variables de résultats sont les suivantes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la participation au marché du travail (définie comme le fait d&amp;rsquo;avoir déclaré des revenus du travail ou des allocations de chômage au cours d&amp;rsquo;une année donnée),&lt;/li&gt;
+&lt;li&gt;le temps de travail, représenté par une variable indiquant le travail à temps partiel parmi les bas salaires, et&lt;/li&gt;
+&lt;li&gt;les dépenses des familles en services de garde d&amp;rsquo;enfants.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;la-méthodologie&#34;&gt;La méthodologie&lt;/h4&gt;
+&lt;p&gt;Givord et Marbot (2005) estiment l&amp;rsquo;effet causal de la politique française de 2004 en utilisant la méthode de différence-de-différences (DD).
+Le traitement est défini comme ayant droit à des subventions de garde d&amp;rsquo;enfants plus élevées à la suite de la politique de 2004.
+Comme les auteurs ne disposent pas de données antérieures à la politique, ils exploitent le fait qu&amp;rsquo;au cours de la première année suivant son entrée en vigueur, certaines mères n&amp;rsquo;étaient &lt;em&gt;pas encore&lt;/em&gt; traitées, c&amp;rsquo;est-à-dire qu&amp;rsquo;elles n&amp;rsquo;avaient pas encore droit à des subventions plus généreuses pour la garde d&amp;rsquo;enfants.
+En particulier, les auteurs comparent les mères qui ont été traitées à la fois en 2005 et en 2006 à celles qui ne &lt;em&gt;sont devenues&lt;/em&gt; traitées qu&amp;rsquo;en 2006.
+Le tableau ci-dessous montre le statut de traitement de ces deux groupes de mères pour chaque année :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Groupe&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2005&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2006&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mères dont le plus jeune enfant a 1 an&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Traitées&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Traitées&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mères dont le plus jeune enfant a 2 ans&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Non traitées&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Traitées&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Leur estimation de l&amp;rsquo;effet de traitement DD (de base) est donc le changement des résultats sur 2005-2006 pour les mères dont le plus jeune enfant avait 2 ans &lt;em&gt;déduit&lt;/em&gt; du changement observé pour celles dont le plus jeune enfant avait seulement 1 an.
+La méthodologie des auteurs ne fournit une estimation crédible de l&amp;rsquo;effet du traitement que si les résultats des deux groupes de mères auraient suivi une tendance commune en l&amp;rsquo;absence du traitement.
+Cette hypothèse ne serait pas respectée si leurs conditions économiques avaient évolué différemment en 2005-2006 &lt;em&gt;ou&lt;/em&gt; si les effets de la politique sur le groupe de contrôle (mères dont l&amp;rsquo;enfant le plus jeune est âgé d&amp;rsquo;un an) avaient changé au fil du temps.&lt;/p&gt;
+&lt;h4 id=&#34;résultats-principaux&#34;&gt;Résultats principaux&lt;/h4&gt;
+&lt;p&gt;Les auteurs constatent que la politique de 2004 a augmenté le pourcentage de mères sur le marché du travail de 1,1 point de pourcentage et le pourcentage achetant des services de garde d&amp;rsquo;enfants de 1,5 point de pourcentage.&lt;/p&gt;
+&lt;p&gt;Les tableaux ci-dessous détaillent ces estimations d&amp;rsquo;effet de traitement :&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Participation au marché du travail (%)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Groupe&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2005&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2006&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Différence au fil du temps&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mères dont le plus jeune enfant a 1 an&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;73,6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74,1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0,5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mères dont le plus jeune enfant a 2 ans&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;68,3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;69,9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1,6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Différence-de-différences&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;1,1&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Source : Givord et Marbot (2015).&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Pourcentage achetant des services de garde d&amp;rsquo;enfants&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Groupe&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2005&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;2006&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Différence au fil du temps&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mères dont le plus jeune enfant a 1 an&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;43,9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;46,2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2,3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mères dont le plus jeune enfant a 2 ans&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;44,6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;48,4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3,8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Différence-de-différences&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;1,5&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Source : Givord et Marbot (2015).&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Les auteurs reconnaissent que, bien que ces effets de traitement soient positifs, ils ne sont pas économiquement significatifs et peuvent refléter la générosité déjà présente du soutien à la garde d&amp;rsquo;enfants disponible en France.&lt;/p&gt;
+&lt;p&gt;Enfin, Givord et Marbot (2015) montrent que les effets de la politique de 2004 sur la participation au marché du travail étaient les plus importants pour les mères d&amp;rsquo;au moins trois enfants.
+Toutefois, ces effets positifs semblent se produire principalement par le biais de l&amp;rsquo;emploi à temps partiel.
+En revanche, la politique semble augmenter les chances que les mères ayant un seul enfant conservent leur emploi à temps plein.&lt;/p&gt;
+&lt;h3 id=&#34;comment-des-journées-scolaires-plus-longues-affectent-elles-les-décisions-doffre-de-travail-des-femmes--évidence-du-mexique&#34;&gt;Comment des journées scolaires plus longues affectent-elles les décisions d&amp;rsquo;offre de travail des femmes ? Évidence du Mexique&lt;/h3&gt;
+&lt;p&gt;Padilla-Romo et Cabrera‐Hernández (2019) examinent l&amp;rsquo;effet de l&amp;rsquo;allongement des horaires scolaires dans les écoles publiques sur l&amp;rsquo;emploi des femmes au Mexique.&lt;/p&gt;
+&lt;h4 id=&#34;la-politique-1&#34;&gt;La politique&lt;/h4&gt;
+&lt;p&gt;En 2007, le gouvernement mexicain a décidé d&amp;rsquo;allonger la journée scolaire pour l&amp;rsquo;éducation primaire, passant de 4,5 à 8 heures, pour une éducation à temps plein.
+Ce changement visait à améliorer les opportunités d&amp;rsquo;apprentissage des enfants âgés de 6 à 12 ans et à soutenir les mères ayant des responsabilités parentales.
+Chaque État a commencé le programme d&amp;rsquo;éducation à temps plein à des moments différents et a choisi quelles écoles primaires participeraient.
+Le programme a débuté dans 500 écoles réparties sur 15 États et s&amp;rsquo;est étendu à 24 250 écoles dans tout le Mexique au cours de l&amp;rsquo;année scolaire 2015-2016.&lt;/p&gt;
+&lt;h4 id=&#34;les-données-1&#34;&gt;Les données&lt;/h4&gt;
+&lt;p&gt;Padilla-Romo et Cabrera‐Hernández (2019) utilisent des données administratives et d&amp;rsquo;enquête du premier trimestre 2015 au troisième trimestre 2016.
+Leur principal ensemble de données provient de l&amp;rsquo;Enquête Nationale sur l&amp;rsquo;Occupation et l&amp;rsquo;Emploi, qui suit le statut d&amp;rsquo;emploi des individus sur cinq trimestres consécutifs, y compris leurs heures de travail et leurs revenus.
+L&amp;rsquo;enquête fournit également des informations sur les caractéristiques sociodémographiques, notamment la municipalité de résidence des individus.&lt;/p&gt;
+&lt;p&gt;De plus, les auteurs utilisent des données administratives du Ministère de l&amp;rsquo;Éducation pour prédire la part des places scolaires avec une éducation à temps plein dans chaque municipalité et trimestre.&lt;/p&gt;
+&lt;p&gt;Leur principale variable de résultat est la participation à la force de travail, définie comme étant employé ou à la recherche d&amp;rsquo;un emploi au cours de la semaine de l&amp;rsquo;enquête nationale sur l&amp;rsquo;emploi.
+Leur variable de traitement est la part prédite de places scolaires avec une éducation à temps plein dont dispose un individu dans sa municipalité de résidence au cours d&amp;rsquo;un trimestre donné (c&amp;rsquo;est-à-dire que leur variable de traitement n&amp;rsquo;est pas binaire mais continue).&lt;/p&gt;
+&lt;p&gt;Enfin, leur échantillon d&amp;rsquo;estimation comprend les mères de plus de 15 ans ayant des enfants en éducation primaire.&lt;/p&gt;
+&lt;h4 id=&#34;la-méthodologie-1&#34;&gt;La méthodologie&lt;/h4&gt;
+&lt;p&gt;Padilla-Romo et Cabrera‐Hernández (2019) utilisent l&amp;rsquo;approche de différences en différences avec un traitement continu.
+Intuitivement, leur méthodologie compare les &lt;em&gt;changements&lt;/em&gt; d&amp;rsquo;emploi pour les mères ayant accès à de nombreuses places scolaires avec éducation à temps plein par rapport à celles ayant accès à peu de places.
+L&amp;rsquo;idée principale derrière cette comparaison est que ces deux groupes de mères sont susceptibles d&amp;rsquo;être intrinsèquement différents.
+Par conséquent, comparer leurs résultats d&amp;rsquo;emploi est peu susceptible de nous fournir une estimation fiable de l&amp;rsquo;effet d&amp;rsquo;avoir accès à plus de places à temps plein.
+Néanmoins, nous pouvons comparer les &lt;em&gt;changements&lt;/em&gt; dans leurs résultats au fil du temps.
+Cette comparaison nous donnera une estimation crédible de l&amp;rsquo;effet du traitement si nous supposons que les résultats des mères ayant peu de places changent de la même manière que les résultats des mères ayant beaucoup de places le feraient &lt;em&gt;si elles n&amp;rsquo;avaient accès qu&amp;rsquo;à quelques places&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Les auteurs examinent les changements dans les résultats des mères tous les cinq trimestres.&lt;/p&gt;
+&lt;h4 id=&#34;résultats-principaux-1&#34;&gt;Résultats principaux&lt;/h4&gt;
+&lt;p&gt;Padilla-Romo et Cabrera-Hernández (2019) constatent que le passage d&amp;rsquo;aucune à toutes les écoles offrant un enseignement à temps plein a augmenté le taux d&amp;rsquo;activité des mères de 5,5 points de pourcentage, les heures de travail hebdomadaires de 1,8 et les revenus mensuels de 24 dollars.
+Autrement, ils constatent qu&amp;rsquo;une augmentation de 25 points de pourcentage dans le pourcentage de places à temps plein a augmenté le taux d&amp;rsquo;activité des mères de 1,4 point de pourcentage, les heures de travail hebdomadaires de 0,5 et les revenus mensuels de 6 dollars.&lt;br&gt;
+Un calcul approximatif suggère que six mères sont entrées sur le marché du travail dans les municipalités offrant 100 places supplémentaires à temps plein.&lt;/p&gt;
+&lt;p&gt;Enfin, les auteurs montrent que les effets de l&amp;rsquo;allongement de la journée scolaire étaient concentrés chez les mères à faible niveau d&amp;rsquo;éducation.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Givord, P., &amp;amp; Marbot, C. (2015). Does the cost of child care affect female labor market participation? An evaluation of a French reform of childcare subsidies. Labour Economics, 36, 99-111.&lt;/li&gt;
+&lt;li&gt;Padilla‐Romo, M., &amp;amp; Cabrera‐Hernández, F. (2019). EASING THE CONSTRAINTS OF MOTHERHOOD: THE EFFECTS OF ALL‐DAY SCHOOLS ON MOTHERS&amp;rsquo;LABOR SUPPLY. Economic Inquiry, 57(2), 890-909.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
