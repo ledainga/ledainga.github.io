@@ -1334,11 +1334,6 @@ La figure ci-dessous illustre cet effet du traitement.&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/rd.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Cette figure trace les résultats d&amp;rsquo;emploi moyens en fonction de l&amp;rsquo;âge, la variable assignant le traitement (éligibilité aux prestations).
-Les lignes pleines montrent les résultats &lt;em&gt;observés&lt;/em&gt;, tandis que les lignes pointillées montrent les résultats &lt;em&gt;contrefactuels&lt;/em&gt;.
-En particulier, la ligne rouge pointillée montre les résultats moyens que les individus traités auraient eus &lt;em&gt;s&amp;rsquo;ils n&amp;rsquo;avaient pas reçu le traitement&lt;/em&gt;.
-L&amp;rsquo;effet du traitement pour ces individus est simplement l&amp;rsquo;écart entre leurs résultats réels et &lt;em&gt;contrefactuels&lt;/em&gt;.
-Comme ces résultats contrefactuels ne peuvent pas être observés, nous devons les estimer.&lt;/p&gt;
 &lt;p&gt;Cette figure présente les résultats d&amp;rsquo;emploi moyens en fonction de l&amp;rsquo;âge, la variable assignant le traitement (éligibilité aux prestations).
 Les lignes pleines indiquent les résultats &lt;em&gt;observés&lt;/em&gt;, tandis que les lignes pointillées indiquent les résultats &lt;em&gt;contrefactuels&lt;/em&gt;.
 En particulier, la ligne pointillée rouge montre les résultats moyens que les individus traités auraient eus &lt;em&gt;s&amp;rsquo;ils n&amp;rsquo;avaient pas reçu le traitement&lt;/em&gt;.
@@ -1349,8 +1344,7 @@ Eh bien, nous pouvons le faire en nous concentrant sur les individus traités et
 En effet, si &lt;em&gt;toutes les autres choses pertinentes&lt;/em&gt; changent vraiment &lt;em&gt;de manière continue&lt;/em&gt; avec l&amp;rsquo;âge, nous pouvons utiliser le résultat moyen de ceux &lt;em&gt;juste en dessous&lt;/em&gt; du seuil (individus de contrôle, à peine plus jeunes que 26 ans) comme le contrefactuel pour ceux &lt;em&gt;juste au-dessus&lt;/em&gt; (individus traités, à peine plus âgés que 26 ans).&lt;br&gt;
 Nous pouvons alors estimer l&amp;rsquo;effet du traitement comme la différence entre les résultats observés pour les individus traités juste au-dessus du seuil et les individus de contrôle juste en dessous, où ce dernier groupe fournit le contrefactuel pour le premier.
 Dans la figure ci-dessus, cette différence dans les résultats observés nous permet d&amp;rsquo;&lt;em&gt;approximer&lt;/em&gt; l&amp;rsquo;effet du traitement pour les individus qui sont &lt;em&gt;juste au seuil&lt;/em&gt; (individus traités qui ont &lt;em&gt;exactement&lt;/em&gt; 26 ans).
-L&amp;rsquo;effet du traitement pour ces 26 ans est la distance verticale entre la ligne verte pleine et la ligne rouge pointillée &lt;em&gt;à la limite&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;effet du traitement pour ces personnes de 26 ans est la distance verticale entre la ligne verte pleine et la ligne rouge pointillée &lt;em&gt;au niveau du seuil&lt;/em&gt;.&lt;/p&gt;
+L&amp;rsquo;effet du traitement pour ces personnes de 26 ans est la distance verticale entre la ligne verte pleine et la ligne rouge pointillée &lt;em&gt;au niveau du seuil&lt;/em&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;limpact-des-prestations-dinvalidité-sur-loffre-de-travail--évidence-du-programme-des-vétérans&#34;&gt;L&amp;rsquo;impact des prestations d&amp;rsquo;invalidité sur l&amp;rsquo;offre de travail : Évidence du programme des vétérans&lt;/h3&gt;
 &lt;p&gt;Les prestations d&amp;rsquo;invalidité visent à soutenir les travailleurs ayant des conditions de santé qui limitent leur capacité à travailler.
 Ces prestations sont censées aider ceux qui, &lt;em&gt;autrement&lt;/em&gt;, seraient incapables de travailler.
@@ -1433,10 +1427,9 @@ Cette croissance plus faible après 2001 suggère donc que les prestations d&amp
 &lt;p&gt;Un schéma similaire se retrouve pour les &lt;strong&gt;revenus salariaux&lt;/strong&gt;.
 En particulier, après 2001, les revenus moyens des vétérans traités ont augmenté à un rythme &lt;em&gt;significativement plus lent&lt;/em&gt; que celui de leurs homologues de contrôle, bien plus lent &lt;em&gt;qu&amp;rsquo;avant&lt;/em&gt; (-0,7 au lieu de -0,2 points log par an).
 Bien que cette réduction des revenus salariaux puisse simplement découler d&amp;rsquo;une participation moindre au marché du travail (&amp;ldquo;marge &lt;em&gt;extensive&lt;/em&gt;&amp;rdquo;), les auteurs montrent qu&amp;rsquo;elle peut également provenir d&amp;rsquo;une réduction du nombre d&amp;rsquo;heures travaillées (&amp;ldquo;marge &lt;em&gt;intensive&lt;/em&gt;&amp;rdquo;).&lt;/p&gt;
-&lt;p&gt;Dans une analyse complémentaire, les auteurs montrent qu&amp;rsquo;un point de pourcentage d&amp;rsquo;augmentation de la réception des prestations réduit la fraction de vétérans travaillant de 0,18 point, c&amp;rsquo;est-à-dire qu&amp;rsquo;environ un vétéran quitte le marché du travail pour chaque cinq vétérans nouvellement récompensés de prestations d&amp;rsquo;invalidité.
-De plus, ils estiment également que chaque mille dollars de prestations d&amp;rsquo;invalidité réduit la probabilité qu&amp;rsquo;un vétéran travaille d&amp;rsquo;environ 0,79 point de pourcentage.&lt;/p&gt;
 &lt;p&gt;Dans une analyse complémentaire, les auteurs montrent qu&amp;rsquo;une augmentation d&amp;rsquo;un point de pourcentage du taux de vétérans touchant des prestations d&amp;rsquo;invalidité a réduit la proportion de vétérans travaillant de 0,18 point.
-En d&amp;rsquo;autres termes, environ un vétéran sur cinq ayant récemment obtenu des prestations d&amp;rsquo;invalidité a quitté le marché du travail.&lt;/p&gt;
+En d&amp;rsquo;autres termes, environ un vétéran sur cinq ayant récemment obtenu des prestations d&amp;rsquo;invalidité a quitté le marché du travail.
+De plus, ils estiment également que chaque mille dollars de prestations d&amp;rsquo;invalidité réduit la probabilité qu&amp;rsquo;un vétéran travaille d&amp;rsquo;environ 0,79 point de pourcentage.&lt;/p&gt;
 &lt;h3 id=&#34;leffet-des-allocations-sociales-sur-lemploi-des-jeunes-en-france&#34;&gt;L&amp;rsquo;effet des allocations sociales sur l&amp;rsquo;emploi des jeunes en France&lt;/h3&gt;
 &lt;p&gt;Comme nous l&amp;rsquo;avons vu en classe, le modèle néoclassique travail-loisir prédit que les programmes d&amp;rsquo;aide sociale typiques créent des désincitations au travail, en particulier pour les travailleurs à bas salaires.
 Deux forces sont en jeu.
@@ -1449,7 +1442,7 @@ En effet, le gouvernement déduit un euro d&amp;rsquo;allocations sociales pour 
 Ce programme taxait essentiellement les salaires à un taux de 100 % ; réduisant ainsi probablement la participation au marché du travail, en particulier chez les travailleurs à bas salaires (comme les jeunes ayant abandonné leurs études).
 Pour remédier à ces désincitations au travail, le gouvernement français a introduit en 2009 un nouveau programme d&amp;rsquo;aide sociale, appelé &lt;em&gt;&amp;ldquo;Revenu de Solidarité Active&amp;rdquo;&lt;/em&gt; (RSA).
 Ce nouveau programme taxe les salaires à un taux de 38 % plutôt que de 100 %, augmentant ainsi probablement la participation au marché du travail par un effet de substitution (il a de nouveau rendu le loisir coûteux !).&lt;/p&gt;
-&lt;p&gt;Bargain et Doorly (2018) examinent les effets de ces deux programmes d&amp;rsquo;aide sociale sur le taux d&amp;rsquo;emploi, en particulier chez les jeunes ayant abandonné l&amp;rsquo;école secondaire.&lt;/p&gt;
+&lt;p&gt;Bargain et Doorly (2017) examinent les effets de ces deux programmes d&amp;rsquo;aide sociale sur le taux d&amp;rsquo;emploi, en particulier chez les jeunes ayant abandonné l&amp;rsquo;école secondaire.&lt;/p&gt;
 &lt;h4 id=&#34;la-politique&#34;&gt;La politique&lt;/h4&gt;
 &lt;p&gt;Jusqu&amp;rsquo;en 2009, le RMI jouait le rôle de prestation de dernier recours pour ceux qui n&amp;rsquo;étaient pas éligibles ou avaient épuisé d&amp;rsquo;autres prestations sociales.
 Pour être éligibles au RMI, les individus devaient avoir &lt;em&gt;au moins 25 ans&lt;/em&gt; (ou moins, avec un enfant à charge) et ne pas être inscrits à l&amp;rsquo;école.
@@ -1460,7 +1453,7 @@ Pour les personnes sans emploi, le revenu total non salarial provenant du RMI et
 &lt;p&gt;Cette allocation généreuse, associée à une taxe de 100 % sur les revenus du travail, décourageait probablement les personnes de 25 ans ou plus de travailler.&lt;/p&gt;
 &lt;p&gt;Après 2009, le RSA a remplacé le RMI, réduisant la taxe sur les revenus salariaux de 100 à 38 %, tout en maintenant les mêmes conditions d&amp;rsquo;âge et la durée illimitée des allocations.&lt;/p&gt;
 &lt;h4 id=&#34;les-données-1&#34;&gt;Les données&lt;/h4&gt;
-&lt;p&gt;Bargain et Doorly (2018) s&amp;rsquo;appuient sur les données du recensement français pour les années 1999 et 2004-2011.
+&lt;p&gt;Bargain et Doorly (2017) s&amp;rsquo;appuient sur les données du recensement français pour les années 1999 et 2004-2011.
 Ces données contiennent des informations sur l&amp;rsquo;âge, l&amp;rsquo;emploi, le type de contrat, la durée de travail, le statut marital et le type de ménage.
 L&amp;rsquo;échantillon d&amp;rsquo;analyse comprend des travailleurs potentiels âgés de 20 à 30 ans qui sont &lt;em&gt;célibataires et n&amp;rsquo;ont pas d&amp;rsquo;enfants&lt;/em&gt;.
 Ces individus n&amp;rsquo;étaient éligibles au RMI que s&amp;rsquo;ils avaient au moins 25 ans.&lt;/p&gt;
@@ -1473,7 +1466,7 @@ Plus précisément, si le taux d&amp;rsquo;emploi changeait de manière continue
 &lt;p&gt;Bien que le RSA ait maintenu le seuil d&amp;rsquo;éligibilité à 25 ans, il a augmenté le rendement du travail en réduisant le taux d&amp;rsquo;imposition des revenus salariaux.
 Bargain et Doorley ont donc refait l&amp;rsquo;analyse précédente en utilisant les données de 2010-2011, lorsque le RSA était en place.&lt;/p&gt;
 &lt;h4 id=&#34;les-résultats-1&#34;&gt;Les résultats&lt;/h4&gt;
-&lt;p&gt;Les résultats de Bargain et Doorly (2018) confirment les prédictions théoriques du modèle travail-loisir.&lt;/p&gt;
+&lt;p&gt;Les résultats de Bargain et Doorly (2017) confirment les prédictions théoriques du modèle travail-loisir.&lt;/p&gt;
 &lt;p&gt;En particulier, ils suggèrent que le RMI a réduit le taux d&amp;rsquo;emploi pour ceux de plus de 25 ans, notamment parmi les individus à bas salaires.
 En effet, les résultats indiquent que ceux &lt;em&gt;juste&lt;/em&gt; au-dessus de 25 ans (donc éligibles au RMI) étaient 1,6 point de pourcentage moins susceptibles d&amp;rsquo;être employés que ceux &lt;em&gt;juste&lt;/em&gt; en-dessous de 25 ans (non éligibles au RMI).
 De plus, cet effet de traitement sur la probabilité d&amp;rsquo;être employé était beaucoup plus fort pour les décrocheurs du secondaire (-3,9 contre -1,6 points de pourcentage).
@@ -1499,9 +1492,9 @@ La figure suivante, tirée de l&amp;rsquo;étude, illustre ces effets de traitem
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://leda-inga.github.io/img/rd_rmi.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;En outre, Bargain et Doorly (2018) suggèrent également que le RSA a contribué à restaurer les incitations au travail parmi les travailleurs pauvres en imposant leurs revenus salariaux au taux de 38 % au lieu de 100 %.
-Plus précisément, les auteurs montre que le RSA a réduit la probabilité d&amp;rsquo;emploi de ceux &lt;em&gt;juste&lt;/em&gt; au-dessus de 25 ans d&amp;rsquo;environ 0,8 point de pourcentage, soit environ 3 points de pourcentage &lt;em&gt;moins&lt;/em&gt; que le RMI.
-La figure ci-dessous illustre cet effet de traitement du RSA.&lt;/p&gt;
+&lt;p&gt;En outre, Bargain et Doorly (2017) suggèrent également que le RSA a contribué à restaurer les incitations financières au travail, en imposant leurs revenus salariaux au taux de 38 % au lieu de 100 %.
+Plus précisément, chez les décrocheurs du secondaire, le RSA a réduit d’environ 3 points de pourcentage la baisse de l’emploi auparavant observée au seuil de 25 ans. Contrairement au RMI, le RSA n’est plus associé à une diminution statistiquement significative de l’emploi à cet âge.
+La figure ci-dessous illustre cet effet du RSA.&lt;/p&gt;
 &lt;p&gt;
 
 

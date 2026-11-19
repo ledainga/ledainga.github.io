@@ -952,11 +952,13 @@ This is, there are no reversals.</p>
 <p>Suppose we have an industry producing one good with capital and labor.
 We assume that this good is capital intensive, which means that the capital-labor ratio used in this industry is large.
 Let $Y = K^{0.8}L^{0.2}$ be the production function of this good.
-We can compute, for instance, how much does it cost to produce 100 units of this good.
-\begin{align}
-\min_{L,K}, &amp; w L + r K \\
-\text{s.t.}, &amp; Y = K^{0.8}L^{0.2} = 100
-\end{align}</p>
+We can compute, for instance, how much does it cost to produce 100 units of this good.</p>
+<p>\begin{equation}
+\begin{aligned}
+\min_{L,K} \quad &amp; w L + r K \\
+\textrm{s.t.} \quad &amp; Y = K^{0.8}L^{0.2} = 100 \\
+\end{aligned}
+\end{equation}</p>
 <!--
 ToRadicals@
  RootReduce@
@@ -967,18 +969,18 @@ ToRadicals@
   Note that (-2)^(2/5) = 4^(1/5)
 !-->
 <p>The minimum cost (difficult to solve) is: $125 \times 4^\frac{1}{5}  w^\frac{1}{5} r^\frac{4}{5}$.
-Suppose we had prices $w=a$ and $r=b$ with $a&gt;b$ because labor is scarce.
-The cost of producing is $125 \times 4^\frac{1}{5} a^\frac{1}{5} b^\frac{4}{5}$.
-Would the cost decrease if the the prices were reversed, $w=b$ and $r=a$?
+Suppose we had prices $w=a$ and $r=b$ with $a&gt;b$ because labor is scarce and capital is abundant.
+Then 100 units could be produced at a minimum cost of $125 \times 4^\frac{1}{5} a^\frac{1}{5} b^\frac{4}{5}$.
+Would this cost decrease if <em>capital</em> became relatively scarce and factor prices reversed to $w=b$ and $r=a$?
 The answer is no:
 \begin{align}
-125 \times 4^\frac{1}{5} b^\frac{1}{5} a^{4/5} &amp;&lt; 125 \times 4^\frac{1}{5} a^\frac{1}{5} b^{4/5} \\
-b^\frac{1}{5} a^{4/5} &amp; &lt;  a^\frac{1}{5} b^{4/5} \\
+125 \times 4^\frac{1}{5} b^\frac{1}{5} \color{red}{a^\frac{4}{5}} &amp;&lt; 125 \times 4^\frac{1}{5} a^\frac{1}{5} \color{green}{b^\frac{4}{5}} \\
+b^\frac{1}{5} a^\frac{4}{5} &amp; &lt;  a^\frac{1}{5} b^\frac{4}{5} \\
 a^\frac{3}{5} &amp; &lt; b^\frac{3}{5} \\
 a &lt; b
 \end{align}
 Which is a contradiction because we assumed $a &gt; b$.</p>
-<p>This hints to the general idea that, because the industry is capital intensive, it benefits from having aboundant capital.</p>
+<p>This hints to the general idea that, because the industry is capital intensive, it benefits from having abundant capital.</p>
 <h2 id="2-goods-2-factors-2-countries">2 Goods, 2 Factors, 2 Countries</h2>
 <p>Despite the model focusing on trade, which necessitates two countries, we begin the analysis with one country only to understand how production decisions are made.</p>
 <p>As stated before, we will consider that production functions (this is, technology) are the same across countries.
@@ -1191,7 +1193,7 @@ Because the yogurt sector is more labor intense, its curve lies to the right of 
 L_x + L_y &amp;= L \\
 K_x + K_y &amp;= K
 \end{align}</p>
-<p>This means that the conutry-wide labor-capital ratio is:
+<p>This means that the country-wide labor-capital ratio is:
 \begin{align}
 \frac{L}{K} &amp;= \frac{L_x + L_y}{K} \\
 &amp;= \frac{L_x}{K_x} \frac{K_x}{K} + \frac{L_y}{K_y} \frac{K_y}{K} \\
@@ -1233,15 +1235,15 @@ Note that, supply is given and fixed.</p>
 <p>This is, the Stolper-Samuelson Theorem indicates that, when prices change, there are winners and losers.
 Therefore, when a country opens up to trade, we know that the good it exports will increase in price, and the good it imports will decrease in price.
 Consequently, and differently from the Ricardian model, under Hecksher-Ohlin, opposition to trade from the importing sector is (partily) rational.
-Nevertheless, the gains from trade as suffficiently large to outweigh the losses, allowing the winners to fully compensate the losers and still be better off.
+Nevertheless, the gains from trade are suffficiently large to outweigh the losses, allowing the winners to fully compensate the losers and still be better off.
 Hence, trade remains Pareto-improving.</p>
 <p>Let&rsquo;s prove the Stolepr-Samuelson theorem.
 First, let&rsquo;s go back to the first-order conditions in both sectors:
 \begin{align}
-w_x &amp;= p_x PML_x \\
-w_y &amp;= p_y PML_y \\
-r_x &amp;= p_x PMP_x \\
-r_y &amp;= p_y PMP_y
+w_x &amp;= p_x MPL_x \\
+w_y &amp;= p_y MPL_y \\
+r_x &amp;= p_x MPK_x \\
+r_y &amp;= p_y MPK_y
 \end{align}
 and recalling that to have production in both sectors we must have $w_x = w_y$ and $r_x = r_y$, then we can also re-arrange the expressions to get:
 \begin{align}
@@ -1252,12 +1254,12 @@ r &amp;= p_x MPK_x = p_y MPK_y \implies \frac{p_x}{p_y} = \frac{MPK_y}{MPK_x}
 Assume that $\frac{p_x}{p_y}$ increases, so xboxes become more expensive relative to yogurt.
 Then, because $\frac{p_x}{p_y} = \frac{MPL_y}{MPL_x}$, it must be that $\frac{MPL_y}{MPL_x}$ increases.
 If $MPL_y$ increases, this indicates that $L_y$ has decreased.
-Alternatively, it can also be the case that $PML_x$ decreases, meaning that $L_x$ has increased.
-So, the first thing we notice is that, when the price of xboxes increases, labor moves from the yogurt sector to the xbox sector.</p>
+Alternatively, it can also be the case that $MPL_x$ decreases, meaning that $L_x$ has increased.
+So, the first thing we notice is that, when the relative price of xboxes increases, labor moves from the yogurt sector to the xbox sector.</p>
 <p>Using the second equation we can see the effects on capital.
 Indeed, when $\frac{p_x}{p_y}$ increases, then $\frac{MPK_y}{MPK_x}$ increases.
 As before, this can be due to $MPK_y$ increasing, which means that $K_y$ has decreased, or $MPK_x$ decreasing, which means that $K_x$ has increased.</p>
-<p>Overall, it is clear that when the price of xboxes increases, capital and labor move from the yogurt sector to the xbox sector.
+<p>Overall, it is clear that <strong>when the relative price of xboxes increases, capital and labor move <em>from the yogurt sector to the xbox sector</em></strong>.
 Therefore, the production of xboxes increases and the production of yogurt decreases.</p>
 <p>How does this affect the wage-to-rental-rate ratio?
 We know that the economy-wide labor-capital ratio follows:
@@ -1775,7 +1777,7 @@ Indeed, the goods that Home sells use much more labour that what it receives, so
 
   
   <p class="powered-by copyright-license-text">
-    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2026 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
